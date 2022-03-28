@@ -1,0 +1,1101 @@
+﻿KH_ID,GioiTinh,QueQuan,NamHocThu,ChuyenNganh,NgheNghiepGiaDinh,ChiTieuHangThang,ThoiGianSuDung,MucDichSuDungLaptop,MucDoHaiLong,YeuToThuongHieuSP,YeuToCauHinh,YeuToTocDoXuLy,YeuToGia,YeuToThietKe,YeuToUyTinNhaBanle,YeuToBaoMat,YeuToBaoHanh,YeuToKhuyenMai
+CTM10164,Nam,Quảng Trị,Năm 2,Luật kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,3,3,3,3,3,3,3,3,3
+CTM10246,Nam,Đà Nẵng,Năm 4,Hệ thống thông tin quản lý,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",4,4,5,5,4,3,4,1,5,5
+CTM1028,Nữ,Nghệ An,Năm 3,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,4,3,4,4,3,4,2,4,4
+CTM10516,Nam,Gia Lai,Năm 2,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,4,4,3,2,3,3,4,2
+CTM10573,Nam,Thừa Thiên Huế,Năm 4,Tài chính doanh nghiệp,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",3,3,4,3,4,1,4,1,3,4
+CTM10591,Nữ,Hồ Chí Minh,Năm 4,Thương mại,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,4,5,5,3,5,4
+CTM10657,Nam,Đà Nẵng,Năm 2,Toán kinh tế,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,3,3,3,3,3,3,3,3
+CTM10863,Nam,Đà Nẵng,Năm 3,Hệ thống thông tin quản lý,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game",4,4,5,5,3,2,3,3,3,4
+CTM10869,Nữ,Đà Nẵng,Năm 4,Thương mại,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,3,3,5,3,5,2,5,5
+CTM11013,Nữ,Hồ Chí Minh,Năm 1,Truyền thông Marketing,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,Học tập,4,4,2,3,3,5,5,4,5,4
+CTM11016,Nữ,Đắk Lắk,Năm 2,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,4,3,3,5,4,5,4,3
+CTM11020,Nữ,Gia Lai,Năm 3,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",3,4,3,3,4,5,5,2,5,4
+CTM11312,Nam,Hồ Chí Minh,Năm 3,Quản trị kinh doanh,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Làm việc, Chơi game",5,5,5,5,4,3,5,3,5,3
+CTM11376,Nữ,Hà Tĩnh,Năm 4,Quản trị khách sạn,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,4,5,4,3,3,5,4
+CTM11476,Nữ,Hồ Chí Minh,Năm 3,Quản trị Marketing,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,4,2,3,3,4,2,2,4,2
+CTM11491,Nam,Quảng Nam,Năm 3,Hệ thống thông tin quản lý,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game",5,4,5,5,3,2,4,3,4,4
+CTM1154,Nữ,Đà Nẵng,Năm 1,Quản trị khách sạn,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Làm việc,4,4,4,4,4,4,4,4,4,4
+CTM11567,Nam,Hồ Chí Minh,Năm 3,Ngoại thương,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,4,3,2,4,4,3,3
+CTM11667,Nam,Đà Nẵng,Năm 4,Quản trị kinh doanh,Công chức nhà nước,Trên 5.000.000,Trên 2 năm,"Học tập, Làm việc",4,3,4,4,4,4,4,3,3,2
+CTM11768,Nữ,Bình Định,Năm 2,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,3,4,2,2,3,4,2,2,3,4
+CTM1205,Nữ,Quảng Bình,Năm 3,Quản lý nhà nước,Nông dân,Dưới 1.500.000,Từ 6 tháng - 1 năm,Học tập,4,4,2,2,5,3,5,3,5,5
+CTM12086,Nam,Bình Định,Năm 2,Ngoại thương,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc",3,2,3,4,3,3,3,2,4,3
+CTM12311,Nam,Quảng Nam,Năm 3,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,1,4,4,4,2,3,2,4,5
+CTM1232,Nam,Gia Lai,Năm 1,Thương mại,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,4,4,4,4,4,4
+CTM12334,Nữ,Nghệ An,Năm 3,Toán kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",5,4,5,5,5,3,4,2,4,4
+CTM12448,Nữ,Kon Tum,Năm 4,Kế toán,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,2,3,3,4,4,4,2,3,3
+CTM12491,Nam,Kon Tum,Năm 3,Tài chính doanh nghiệp,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,4,4,5,2,3,2,4,3
+CTM12511,Nữ,Đắk Lắk,Năm 3,Quản trị Marketing,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,4,3,3,4,5,4,3,4,5
+CTM12519,Nữ,Quảng Nam,Năm 4,Kế toán,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",3,2,2,3,4,4,4,2,3,4
+CTM12588,Nam,Quảng Trị,Năm 2,Tài chính doanh nghiệp,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,4,1,2,3,4,5
+CTM12627,Nữ,Quảng Trị,Năm 4,Ngoại thương,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",4,4,5,5,4,4,5,5,5,4
+CTM12635,Nữ,Gia Lai,Năm 3,Luật,Nông dân,Dưới 1.500.000,Dưới 6 tháng,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,4,4,5,3,3,2,5,5
+CTM13167,Nam,Đà Nẵng,Năm 3,Kiểm toán,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,Làm việc,3,3,5,5,5,4,4,4,4,5
+CTM13236,Nam,Lâm Đồng,Năm 4,Thương mại,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,4,2,4,4,2,4,3,4
+CTM13282,Nữ,Bình Định,Năm 1,Truyền thông Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,3,2,3,3,3,3,3,3
+CTM13449,Nữ,Kon Tum,Năm 2,Luật,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,4,2,3,4,5,2,2,4,3
+CTM13508,Nữ,Quảng Nam,Năm 4,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,3,5,4,5,3,4,4
+CTM13653,Nữ,Đà Nẵng,Năm 2,Thương mại,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,3,4,4,3,4,3,3,5
+CTM13664,Nữ,Hà Tĩnh,Năm 3,Thương mại điện tử,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",5,2,4,4,3,2,2,3,4,5
+CTM13762,Nữ,Quảng Trị,Năm 3,Thương mại điện tử,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",3,4,2,4,3,2,3,2,4,4
+CTM13837,Nữ,Đắk Lắk,Năm 3,Tài chính doanh nghiệp,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,5,5,2,3,4,5,2,3,2,3
+CTM13887,Nam,Đắk Nông,Năm 2,Hệ thống thông tin quản lý,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,5,5,4,3,4,2,4,5
+CTM14029,Nam,Đắk Lắk,Năm 3,Quan hệ công chúng,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Dưới 6 tháng,Làm việc,5,1,5,5,5,5,5,5,5,5
+CTM14049,Nam,Hà Tĩnh,Năm 4,Tài chính doanh nghiệp,Nông dân,Trên 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,5,4,4,4,5,5,4,5,3
+CTM14053,Nam,Hồ Chí Minh,Năm 2,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,4,4,5,5,4,3,3,4
+CTM14121,Nam,Đà Nẵng,Năm 3,Kinh tế,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,3,3,4,3,3,2,3,4
+CTM14184,Nữ,Quảng Nam,Năm 3,Toán kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",3,4,4,5,4,2,4,3,4,4
+CTM142,Nữ,Đắk Nông,Năm 3,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,3,2,3,4,3,2,3,3,4,5
+CTM14258,Nam,Đà Nẵng,Năm 2,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Dưới 6 tháng,"Học tập, Chơi game",4,4,2,3,4,3,2,3,4,4
+CTM14408,Nam,Đắk Nông,Năm 3,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",4,4,5,5,3,3,4,3,4,3
+CTM1441,Nữ,Đà Nẵng,Năm 2,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,3,4,4,3,3,3,2,3,2
+CTM145,Nữ,Bình Định,Năm 1,Ngoại thương,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",4,3,4,4,4,2,3,4,3,2
+CTM14696,Nữ,Quảng Trị,Năm 4,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,4,2,2,3,2,4,2,3,4
+CTM14813,Nữ,Đà Nẵng,Năm 4,Thương mại điện tử,Kinh doanh tự do,Trên 5.000.000,Từ 1 năm đến 2 năm,"Chơi game, Khác",5,3,3,3,3,3,3,3,3,3
+CTM15043,Nữ,Hà Tĩnh,Năm 3,Thương mại,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,Học tập,4,3,3,3,3,3,3,3,3,3
+CTM15082,Nữ,Hồ Chí Minh,Năm 1,Ngoại thương,Công chức nhà nước,Dưới 1.500.000,Dưới 6 tháng,Học tập,4,4,3,3,4,2,4,4,3,4
+CTM15171,Nam,Quảng Nam,Năm 2,Luật,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game",5,3,3,3,3,3,3,3,3,3
+CTM15260,Nữ,Quảng Bình,Năm 3,Kế toán,Nông dân,Dưới 1.500.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web), Khác",3,4,2,2,4,4,3,2,4,4
+CTM15327,Nữ,Thanh Hóa,Năm 3,Ngoại thương,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,4,3,3,4,3,4,5,3,3
+CTM15333,Nam,Quảng Nam,Năm 3,Hệ thống thông tin quản lý,Nông dân,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Làm việc, Chơi game",3,3,5,5,4,2,3,4,4,4
+CTM15426,Nữ,Bình Định,Năm 2,Luật,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,1,4,4,4,2,4,1,4
+CTM15464,Nam,Quảng Trị,Năm 4,Toán kinh tế,Nông dân,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,5,5,4,3,4,5,4,5
+CTM15674,Nam,Gia Lai,Năm 4,Tài chính doanh nghiệp,Kinh doanh tự do,Trên 5.000.000,Từ 6 tháng - 1 năm,"Giải trí (xem phim, nghe nhạc, lướt web)",4,3,3,4,3,3,3,4,3,4
+CTM15688,Nam,Quảng Nam,Năm 2,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Chơi game",3,4,3,4,4,3,2,2,4,3
+CTM15703,Nam,Đắk Lắk,Năm 3,Hệ thống thông tin quản lý,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game",4,4,5,5,4,2,3,3,5,4
+CTM15751,Nam,Đà Nẵng,Năm 3,Thương mại,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Dưới 6 tháng,Làm việc,4,3,3,3,3,3,3,3,3,3
+CTM15835,Nam,Bình Định,Năm 1,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game",5,3,3,3,3,3,3,3,3,3
+CTM15919,Nam,Nghệ An,Năm 2,Quản trị kinh doanh,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,4,4,5,5,2,5,3,4
+CTM16011,Nữ,Đà Nẵng,Năm 2,Toán kinh tế,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Dưới 6 tháng,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,4,4,2,4,4,2,3,2
+CTM16182,Nam,Quảng Bình,Năm 3,Kinh tế phát triển,Nông dân,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,5,2,3,4,3,2,2,3,4
+CTM16264,Nữ,Đà Nẵng,Năm 1,Quản trị Marketing,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Dưới 6 tháng,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,3,4,4,2,2,4,4,4,2
+CTM1634,Nam,Quảng Trị,Năm 3,Truyền thông Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,5,3,3,4,5,3,3,4,4
+CTM16527,Nữ,Đà Nẵng,Năm 4,Thương mại,Nhân viên văn phòng,Trên 5.000.000,Từ 6 tháng - 1 năm,Làm việc,4,3,3,3,3,3,3,3,3,3
+CTM16593,Nam,Hồ Chí Minh,Năm 4,Quản trị kinh doanh,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,3,3,4,5,5,5,5,4
+CTM16641,Nữ,Gia Lai,Năm 2,Thương mại điện tử,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Khác",4,4,4,4,2,2,3,4,3,1
+CTM1676,Nữ,Quảng Trị,Năm 2,Quản trị chuỗi cung ứng,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",2,5,3,3,5,4,3,2,4,5
+CTM16782,Nữ,Đắk Nông,Năm 2,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,3,3,4,2,2,3,3,2
+CTM16880,Nam,Hồ Chí Minh,Năm 1,Khoa học dữ liệu,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,5,5,3,3,4,3,5,4
+CTM17010,Nữ,Quảng Trị,Năm 2,Kế toán,Nông dân,Dưới 1.500.000,Dưới 6 tháng,Học tập,3,4,3,3,4,3,4,3,4,3
+CTM17043,Nữ,Quảng Trị,Năm 4,Quản trị chuỗi cung ứng,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,4,4,5,5,5,5
+CTM17102,Nam,Bình Định,Năm 3,Ngoại thương,Nông dân,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",2,4,3,4,5,2,3,2,3,3
+CTM17109,Nữ,Quảng Nam,Năm 2,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Học tập,3,3,4,4,4,3,4,4,4,4
+CTM17226,Nữ,Thừa Thiên Huế,Năm 1,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,Học tập,5,5,4,5,5,4,4,5,5,3
+CTM17242,Nữ,Thừa Thiên Huế,Năm 3,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,4,3,4,3,2,4,3,4,4
+CTM17317,Nữ,Quảng Bình,Năm 3,Luật kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,3,4,3,3,4,4,5,4,5,5
+CTM17342,Nam,Hồ Chí Minh,Năm 4,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,3,4,2,4,2,2,3
+CTM17479,Nữ,Gia Lai,Năm 1,Luật,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,3,3,5,3,3,3,5,5
+CTM17585,Nam,Hà Tĩnh,Năm 1,Hệ thống thông tin quản lý,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,5,5,5,5,2,4,2,5,5
+CTM17649,Nữ,Đắk Lắk,Năm 3,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,3,4,2,2,3,4,3,2,3,4
+CTM17713,Nam,Đà Nẵng,Năm 1,Kinh tế đầu tư,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,Khác,5,4,4,4,4,4,3,4,4,4
+CTM17781,Nữ,Hồ Chí Minh,Năm 3,Quan hệ công chúng,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,3,4,5,2,4,4
+CTM18035,Nam,Đà Nẵng,Năm 2,Hệ thống thông tin quản lý,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,5,5,5,2,2,3,4,5
+CTM18038,Nam,Quảng Nam,Năm 3,Quản trị kinh doanh,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",2,3,3,4,5,3,4,3,5,5
+CTM18051,Nữ,Kon Tum,Năm 1,Kiểm toán,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,5,5,4,3,5,5,5,3
+CTM18106,Nữ,Đắk Lắk,Năm 2,Thương mại,Nông dân,Dưới 1.500.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,2,3,4,3,4,3,3,5
+CTM18160,Nữ,Đà Nẵng,Năm 1,Quản trị khách sạn,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Làm việc,2,4,4,4,4,4,4,4,4,4
+CTM1827,Nữ,Hồ Chí Minh,Năm 4,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",3,4,3,3,4,5,3,3,4,3
+CTM18385,Nữ,Thanh Hóa,Năm 3,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",2,3,3,3,4,2,3,2,4,4
+CTM18407,Nữ,Đắk Lắk,Năm 4,Luật,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,4,4,4,4,4,4
+CTM18579,Nam,Thừa Thiên Huế,Năm 1,Truyền thông Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",2,4,3,4,5,4,2,2,3,4
+CTM18644,Nữ,Đà Nẵng,Năm 1,Ngân hàng,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,5,5,4,4,5,4
+CTM18679,Nữ,Đà Nẵng,Năm 4,Thương mại điện tử,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,3,3,3,4,3,2
+CTM18738,Nữ,Bình Định,Năm 1,Kinh tế phát triển,Nông dân,Dưới 1.500.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,4,4,3,3,4,4,5,3
+CTM18747,Nữ,Đắk Lắk,Năm 3,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,5,5,4,3,5,5,4,2
+CTM18845,Nữ,Quảng Bình,Năm 2,Luật kinh tế,Nông dân,Dưới 1.500.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc",4,4,2,3,4,4,5,2,4,4
+CTM18888,Nữ,Đà Nẵng,Năm 2,Quản trị Marketing,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",5,4,3,4,4,3,3,3,5,5
+CTM19062,Nam,Đắk Nông,Năm 1,Quản trị kinh doanh,Nông dân,Dưới 1.500.000,Dưới 6 tháng,Học tập,4,4,3,4,3,2,2,2,4,4
+CTM19083,Nữ,Đà Nẵng,Năm 3,Ngoại thương,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,3,4,4,1,4,4,2,3,3
+CTM19117,Nam,Kon Tum,Năm 3,Truyền thông Marketing,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game",4,2,3,4,4,2,2,2,3,4
+CTM19189,Nam,Quảng Nam,Năm 3,Hệ thống thông tin quản lý,Nông dân,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,4,4,5,4,5,5
+CTM1925,Nam,Quảng Nam,Năm 1,Quản trị dịch vụ du lịch và lữ hành,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,3,4,4,2,4,3,3,4,2
+CTM19428,Nam,Quảng Nam,Năm 3,Kiểm toán,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,3,4,4,3,4,2,4,4
+CTM19487,Nữ,Bình Định,Năm 3,Kế toán,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",3,2,2,3,4,4,2,2,4,3
+CTM19582,Nữ,Phú Yên,Năm 2,Ngoại thương,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",2,2,3,3,5,2,3,1,4,5
+CTM19849,Nữ,Quảng Nam,Năm 4,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,5,5,4,4,4,3,4,3
+CTM19865,Nam,Quảng Nam,Năm 2,Truyền thông Marketing,Nông dân,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",3,4,3,3,4,3,4,2,4,4
+CTM19870,Nữ,Đắk Lắk,Năm 4,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,3,3,4,3,5,2,4,4
+CTM1993,Nữ,Quảng Trị,Năm 3,Quản trị dịch vụ du lịch và lữ hành,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,3,4,2,4,3,4,3
+CTM20028,Nam,Đà Nẵng,Năm 3,Quản trị kinh doanh,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,4,4,4,4,4,4,4,1
+CTM20058,Nam,Đắk Nông,Năm 2,Toán kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,5,5,4,2,3,2,5,4
+CTM20079,Nữ,Đắk Nông,Năm 1,Kinh tế phát triển,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,3,4,2,2,4,4,3,3,3,4
+CTM20090,Nam,Đà Nẵng,Năm 3,Hệ thống thông tin quản lý,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,5,5,4,1,2,3,5,4
+CTM20173,Nữ,Gia Lai,Năm 2,Thương mại,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc",4,4,3,4,4,3,4,2,4,4
+CTM20230,Nam,Hồ Chí Minh,Năm 1,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,4,4,4,5,4,3,5,4
+CTM20315,Nữ,Hồ Chí Minh,Năm 3,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,3,3,4,5,5,4,5,4
+CTM20323,Nam,Hồ Chí Minh,Năm 2,Ngoại thương,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Làm việc, Chơi game",4,5,4,4,4,5,2,4,2,3
+CTM20540,Nam,Gia Lai,Năm 4,Quản trị kinh doanh,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,5,3,5,2,5,4
+CTM2070,Nam,Quảng Trị,Năm 3,Quản trị Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,5,5,5,5,5,5,5,5
+CTM20707,Nam,Đà Nẵng,Năm 1,Thương mại điện tử,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,3,4,3,3,3,2
+CTM20718,Nam,Quảng Ngãi,Năm 2,Tài chính doanh nghiệp,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game, Khác",4,2,3,3,4,3,5,3,5,5
+CTM20814,Nữ,Quảng Ngãi,Năm 1,Quản trị khách sạn,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",4,3,4,5,5,4,4,5,4,4
+CTM20833,Nữ,Quảng Nam,Năm 4,Quản trị dịch vụ du lịch và lữ hành,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc",3,4,3,3,4,4,3,4,3,3
+CTM21009,Nữ,Đắk Nông,Năm 1,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc",4,2,3,3,5,1,1,1,4,5
+CTM21071,Nữ,Bình Định,Năm 1,Truyền thông Marketing,Nông dân,Dưới 1.500.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,4,3,4,3,4,4,4,3
+CTM21176,Nữ,Thừa Thiên Huế,Năm 2,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,3,2,2,3,4,3,4,2,3,4
+CTM21431,Nữ,Hồ Chí Minh,Năm 1,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,3,3,3,5,5,5,4,3
+CTM21632,Nam,Đắk Nông,Năm 3,Hệ thống thông tin quản lý,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,5,5,5,2,5,3,4,5
+CTM21656,Nữ,Nghệ An,Năm 2,Truyền thông Marketing,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc",5,5,5,5,5,5,5,5,5,5
+CTM21744,Nữ,Đà Nẵng,Năm 4,Thương mại,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,3,3,3,3,3,3,3,3
+CTM21850,Nam,Quảng Nam,Năm 1,Hệ thống thông tin quản lý,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,Học tập,4,3,5,5,5,3,4,2,4,4
+CTM21852,Nam,Nghệ An,Năm 3,Quản trị kinh doanh,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,4,4,4,5,4,5,4,3
+CTM22014,Nam,Hồ Chí Minh,Năm 2,Ngoại thương,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game",4,2,4,5,4,4,3,2,3,4
+CTM22029,Nữ,Nghệ An,Năm 2,Truyền thông Marketing,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc",5,5,3,3,4,5,3,4,3,4
+CTM22077,Nữ,Hồ Chí Minh,Năm 3,Toán kinh tế,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,2,5,5,4,3,5,4,5,5
+CTM22108,Nữ,Hà Tĩnh,Năm 2,Thương mại,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,Học tập,4,4,2,3,5,4,4,2,4,5
+CTM22260,Nam,Đắk Lắk,Năm 3,Ngoại thương,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,4,4,5,1,4,1,4,4
+CTM22262,Nam,Hồ Chí Minh,Năm 2,Quản trị dịch vụ du lịch và lữ hành,Công chức nhà nước,Trên 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,5,5,5,5,5,5,5,5
+CTM2227,Nam,Quảng Nam,Năm 3,Kinh tế đầu tư,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",4,3,4,3,3,3,3,3,3,3
+CTM22331,Nam,Quảng Trị,Năm 2,Hệ thống thông tin quản lý,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,5,5,5,2,2,4,4,4
+CTM22356,Nữ,Quảng Bình,Năm 3,Quản trị dịch vụ du lịch và lữ hành,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,5,2,3,4,4,3,1,4,4
+CTM22523,Nữ,Đắk Lắk,Năm 2,Kinh tế,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,2,2,4,3,4,1,5,5
+CTM22656,Nam,Hồ Chí Minh,Năm 2,Toán kinh tế,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game",5,4,5,5,4,3,3,4,5,5
+CTM22763,Nữ,Bình Định,Năm 1,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,4,5,5,3,3,4,5,5,2
+CTM22766,Nam,Hồ Chí Minh,Năm 4,Quản trị Marketing,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,5,4,4,5,5,2,2,2,4
+CTM22814,Nữ,Bình Định,Năm 1,Ngoại thương,Nông dân,Dưới 1.500.000,Từ 6 tháng - 1 năm,Học tập,5,4,5,5,5,5,5,5,5,4
+CTM22841,Nữ,Hà Tĩnh,Năm 4,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",3,4,2,3,4,3,4,2,4,4
+CTM22868,Nam,Đắk Nông,Năm 4,Toán kinh tế,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,4,3,4,4,4,4
+CTM2301,Nam,Hà Tĩnh,Năm 2,Ngoại thương,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,4,4,4,5,3,3,3,4
+CTM23280,Nam,Quảng Nam,Năm 4,Thương mại điện tử,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,5,5,5,4,4,5,5
+CTM23314,Nam,Đà Nẵng,Năm 3,Toán kinh tế,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Chơi game",4,3,5,5,4,2,3,2,4,5
+CTM23594,Nữ,Quảng Nam,Năm 2,Thương mại điện tử,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,4,3,3,4,2,4,2,4,4
+CTM23603,Nữ,Đắk Lắk,Năm 2,Ngân hàng,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,2,3,4,2,4,3,4,4
+CTM23614,Nam,Kon Tum,Năm 3,Hệ thống thông tin quản lý,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,5,5,4,3,4,3,5,5
+CTM23643,Nữ,Gia Lai,Năm 2,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,3,3,3,3,3,3,3
+CTM23666,Nữ,Quảng Trị,Năm 2,Thương mại,Nông dân,Dưới 1.500.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,3,3,4,3,4,2,3,4
+CTM23705,Nam,Quảng Nam,Năm 3,Thương mại,Nông dân,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game",3,3,4,5,4,1,1,1,4,4
+CTM23866,Nữ,Đà Nẵng,Năm 3,Ngoại thương,Kinh doanh tự do,Trên 5.000.000,Từ 6 tháng - 1 năm,"Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,5,5,5,5,5,5,5,5
+CTM23958,Nam,Quảng Nam,Năm 4,Hệ thống thông tin quản lý,Nông dân,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,3,2,5,4,5,4
+CTM23967,Nữ,Nghệ An,Năm 3,Truyền thông Marketing,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Dưới 6 tháng,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,4,4,5,5,5,3,3,5
+CTM24010,Nữ,Đắk Lắk,Năm 2,Luật,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,Học tập,3,3,2,3,3,4,3,3,4,4
+CTM24175,Nữ,Gia Lai,Năm 2,Ngân hàng,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,3,3,2,3,4,3,4,2,4,4
+CTM24176,Nữ,Đắk Lắk,Năm 3,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,5,4,3,4,4,4,3,2,4,4
+CTM24272,Nữ,Đắk Nông,Năm 4,Luật,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,4,2,4,3,3,4,3,4,3
+CTM24470,Nữ,Quảng Trị,Năm 2,Quản trị dịch vụ du lịch và lữ hành,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,5,5,4,4,5,4,3,4
+CTM24581,Nữ,Bình Định,Năm 1,Kinh tế phát triển,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,Học tập,4,3,3,3,3,3,3,3,3,3
+CTM24654,Nam,Đà Nẵng,Năm 4,Thương mại,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,4,3,4,3,2,3,4
+CTM24681,Nữ,Hồ Chí Minh,Năm 2,Quan hệ công chúng,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,4,4,3,3,4,5,4,2,4,5
+CTM24725,Nam,Quảng Nam,Năm 2,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,3,3,4,3,4,3,4,4
+CTM24874,Nữ,Quảng Nam,Năm 2,Kế toán,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,Học tập,4,2,2,3,4,2,2,4,3,4
+CTM25011,Nam,Hồ Chí Minh,Năm 2,Luật kinh tế,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game",5,5,5,4,4,3,3,4,4,4
+CTM25081,Nam,Nghệ An,Năm 3,Hệ thống thông tin quản lý,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game",4,3,5,5,4,2,3,4,5,4
+CTM25243,Nữ,Quảng Nam,Năm 3,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",3,4,3,3,4,3,3,2,4,4
+CTM25322,Nữ,Hồ Chí Minh,Năm 4,Ngoại thương,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,3,3,3,4,2,3,4,4
+CTM25338,Nữ,Đà Nẵng,Năm 2,Luật kinh tế,Kinh doanh tự do,Trên 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,3,4,4,3,4,4,4,3
+CTM25379,Nam,Bình Định,Năm 1,Ngoại thương,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,4,2,3,3,3,2
+CTM25412,Nữ,Quảng Bình,Năm 4,Thương mại,Nông dân,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,3,3,4,4,4,3,4,3
+CTM25448,Nữ,Quảng Nam,Năm 1,Quản trị tài chính,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,3,5,2,2,1,4,5
+CTM25600,Nữ,Phú Yên,Năm 1,Quản trị khách sạn,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,5,5,5,5,5,5,5,5
+CTM25920,Nam,Bình Định,Năm 3,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,Làm việc,4,3,3,3,3,3,3,3,3,3
+CTM26103,Nữ,Đắk Nông,Năm 3,Quản trị tài chính,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,2,2,4,4,2,2,4,5
+CTM26427,Nam,Quảng Nam,Năm 4,Thương mại,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",3,4,4,4,4,2,2,2,3,4
+CTM26608,Nam,Quảng Nam,Năm 3,Ngoại thương,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Chơi game",3,4,2,4,3,4,4,2,4,4
+CTM26612,Nữ,Quảng Nam,Năm 2,Quản trị kinh doanh,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,2,3,3,4,3,2
+CTM26725,Nữ,Hà Tĩnh,Năm 3,Thương mại,Nông dân,Dưới 1.500.000,Trên 2 năm,"Học tập, Làm việc",4,5,2,3,5,2,3,2,4,5
+CTM26733,Nữ,Hà Tĩnh,Năm 1,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,5,4,3,4,5,2,4,2,4,5
+CTM26851,Nữ,Quảng Trị,Năm 4,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",2,4,2,2,4,4,2,2,2,3
+CTM27059,Nữ,Hồ Chí Minh,Năm 4,Truyền thông Marketing,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,3,3,3,3,3,3,3,3,3
+CTM27077,Nữ,Đắk Nông,Năm 2,Quản trị kinh doanh,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,5,5,4,5,3,3,4,4
+CTM27124,Nữ,Quảng Ngãi,Năm 4,Luật,Nông dân,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,4,4,3,3,3,3
+CTM27211,Nữ,Bình Định,Năm 4,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,3,4,4,4,5,3,5,5
+CTM27254,Nữ,Quảng Nam,Năm 3,Toán kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,5,5,5,5,4,5,5,5
+CTM27318,Nữ,Đà Nẵng,Năm 1,Quản trị chuỗi cung ứng,Kinh doanh tự do,Trên 5.000.000,Dưới 6 tháng,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,3,4,4,4,3,4,4,4,3
+CTM27356,Nữ,Bình Định,Năm 1,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,5,1,1,1,1,1,1,1,1,1
+CTM275,Nữ,Đắk Lắk,Năm 4,Luật,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",2,5,5,5,5,3,4,3,5,5
+CTM27743,Nữ,Quảng Bình,Năm 4,Quản trị dịch vụ du lịch và lữ hành,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,2,3,4,5,3,5,5,5
+CTM27799,Nữ,Quảng Trị,Năm 1,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,2,3,4,3,2,3,3,4
+CTM27804,Nữ,Quảng Nam,Năm 1,Ngoại thương,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,4,4,3,3,3,4,4,4
+CTM27862,Nam,Đắk Lắk,Năm 3,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",2,2,4,4,5,1,2,1,3,4
+CTM27929,Nữ,Quảng Nam,Năm 4,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",3,4,5,5,4,4,4,4,4,4
+CTM27977,Nữ,Thanh Hóa,Năm 4,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,5,5,3,4,3,4,5
+CTM28109,Nữ,Thừa Thiên Huế,Năm 2,Toán kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,5,5,4,5,3,4,5,5
+CTM28454,Nữ,Đắk Lắk,Năm 3,Truyền thông Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,4,2,3,3,4,2,3,4,3
+CTM28612,Nữ,Hồ Chí Minh,Năm 3,Ngoại thương,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,3,3,4,5,5,5,4,5
+CTM28703,Nữ,Hồ Chí Minh,Năm 3,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,3,3,3,5,5,4,4,3
+CTM28761,Nữ,Hồ Chí Minh,Năm 1,Luật kinh tế,Nhân viên văn phòng,Trên 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,5,5,5,5,5,5,5,5
+CTM28763,Nữ,Đà Nẵng,Năm 1,Quản trị khách sạn,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Làm việc,4,4,4,4,4,4,4,4,4,4
+CTM28796,Nữ,Hồ Chí Minh,Năm 4,Quản trị khách sạn,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,5,5,5,4,4,4,4,4
+CTM28803,Nam,Đà Nẵng,Năm 3,Kiểm toán,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Chơi game",3,2,3,4,3,2,3,2,3,4
+CTM28823,Nữ,Hồ Chí Minh,Năm 3,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",5,4,2,3,4,4,2,3,3,4
+CTM29062,Nữ,Đà Nẵng,Năm 3,Quản trị Marketing,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,4,5,5,3,4,3,3,4,3
+CTM29067,Nữ,Thừa Thiên Huế,Năm 3,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Học tập,4,4,3,4,4,3,2,3,5,4
+CTM29174,Nam,Gia Lai,Năm 3,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,3,2,2,3,3,3,2
+CTM29357,Nam,Quảng Nam,Năm 1,Hệ thống thông tin quản lý,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc",4,3,5,5,4,2,3,3,4,3
+CTM29445,Nữ,Đắk Lắk,Năm 4,Quản trị tài chính,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,2,3,4,3,4,3,4,4
+CTM29460,Nữ,Gia Lai,Năm 4,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,5,4,5,3,4,3,4,4
+CTM29531,Nam,Hồ Chí Minh,Năm 3,Quản trị dịch vụ du lịch và lữ hành,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc",5,2,3,3,4,5,5,5,5,5
+CTM29644,Nữ,Phú Yên,Năm 1,Truyền thông Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,3,4,4,4,4,3,4,3
+CTM2975,Nữ,Thừa Thiên Huế,Năm 2,Quản trị khách sạn,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,4,4,2,3,4,3,2,4,3,3
+CTM29937,Nữ,Phú Yên,Năm 3,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Dưới 6 tháng,"Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,3,3,4,4,5,5,3
+CTM30017,Nam,Thanh Hóa,Năm 2,Luật,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,4,4,5,2,4,3,4,4
+CTM30021,Nam,Nghệ An,Năm 3,Hệ thống thông tin quản lý,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game",3,2,4,4,3,2,3,3,5,5
+CTM30035,Nữ,Gia Lai,Năm 1,Thương mại,Nông dân,Dưới 1.500.000,Dưới 6 tháng,Học tập,4,2,3,3,5,3,4,3,5,4
+CTM30151,Nam,Thừa Thiên Huế,Năm 3,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,4,5,5,4,3,4,2,5,4
+CTM30181,Nam,Hồ Chí Minh,Năm 1,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game",4,5,5,4,4,4,2,3,4,4
+CTM30326,Nữ,Quảng Bình,Năm 2,Ngân hàng,Nông dân,Dưới 1.500.000,Trên 2 năm,"Học tập, Làm việc",3,2,2,3,4,2,3,2,4,4
+CTM30360,Nữ,Bình Định,Năm 2,Quản trị kinh doanh,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,5,3,4,4,5,5
+CTM304,Nam,Đà Nẵng,Năm 2,Ngoại thương,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,5,5,5,5,5,5,5,5
+CTM30462,Nam,Hồ Chí Minh,Năm 1,Ngoại thương,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,4,4,4,5,4,3,4,4
+CTM30528,Nữ,Đà Nẵng,Năm 2,Quản trị nguồn nhân lực,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",4,3,4,4,2,3,2,3,3,2
+CTM30599,Nam,Thừa Thiên Huế,Năm 3,Quản trị khách sạn,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,5,5,5,4,5,4,4,4
+CTM3074,Nam,Thừa Thiên Huế,Năm 2,Truyền thông Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,2,2,3,5,4,3,4,4
+CTM30946,Nam,Quảng Nam,Năm 3,Thương mại điện tử,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",4,3,4,4,3,2,2,3,3,3
+CTM31009,Nữ,Quảng Nam,Năm 2,Quan hệ công chúng,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,4,4,3,3,4,5,4,3,4,5
+CTM31020,Nữ,Đắk Nông,Năm 2,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,4,5,2,4,2,5,5
+CTM31048,Nam,Quảng Trị,Năm 2,Quản trị dịch vụ du lịch và lữ hành,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,4,4,3,4,5,4
+CTM31075,Nữ,Quảng Nam,Năm 2,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",3,5,5,5,5,5,5,5,5,5
+CTM31104,Nữ,Bình Định,Năm 1,Ngoại thương,Nông dân,Từ 3.000.000 đến 5.000.000,Trên 2 năm,Học tập,4,3,3,4,4,3,4,4,4,1
+CTM31120,Nam,Hồ Chí Minh,Năm 4,Ngân hàng,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,4,3,3,1,4,3
+CTM31256,Nam,Gia Lai,Năm 1,Khoa học dữ liệu,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Dưới 6 tháng,"Học tập, Làm việc, Chơi game",4,3,5,5,4,2,3,4,3,3
+CTM31423,Nữ,Quảng Bình,Năm 4,Ngoại thương,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,3,3,2,1,1,2,2,2,1,1
+CTM3144,Nam,Hồ Chí Minh,Năm 2,Luật,Nông dân,Dưới 1.500.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",2,3,4,3,2,5,2,5,5,1
+CTM31441,Nam,Gia Lai,Năm 2,Hệ thống thông tin quản lý,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game",3,2,3,4,4,3,3,4,3,4
+CTM31682,Nữ,Hồ Chí Minh,Năm 2,Quản trị nguồn nhân lực,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,4,4,3,2,4,1,4,3
+CTM31720,Nam,Nghệ An,Năm 3,Hệ thống thông tin quản lý,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game",4,3,5,5,4,2,3,3,4,4
+CTM31816,Nữ,Đà Nẵng,Năm 3,Quản trị kinh doanh,Nhân viên văn phòng,Trên 5.000.000,Trên 2 năm,"Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,5,5,5,5,5,5,5,5
+CTM31837,Nữ,Đà Nẵng,Năm 3,Thương mại,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Giải trí (xem phim, nghe nhạc, lướt web)",3,4,4,5,5,4,4,4,5,5
+CTM31853,Nam,Hà Nội,Năm 3,Kiểm toán,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,4,2,2,4,2,3,2,3,4
+CTM32176,Nữ,Bình Định,Năm 4,Thương mại,Nông dân,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,5,5,5,5,5,5,5,5
+CTM32196,Nữ,Hồ Chí Minh,Năm 2,Quản trị kinh doanh,Nông dân,Dưới 1.500.000,Trên 2 năm,Học tập,5,5,5,5,5,3,5,5,5,3
+CTM32312,Nam,Thừa Thiên Huế,Năm 2,Quản trị khách sạn,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,4,4,4,4,4,3,3,4
+CTM32429,Nam,Hồ Chí Minh,Năm 3,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game",4,4,4,4,4,5,2,2,3,4
+CTM32570,Nam,Quảng Bình,Năm 1,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,Học tập,4,2,3,3,4,3,4,2,4,3
+CTM32590,Nữ,Đắk Lắk,Năm 4,Kế toán,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,3,4,4,4,3,3
+CTM32615,Nữ,Đắk Lắk,Năm 2,Tài chính doanh nghiệp,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,4,2,2,4,3,4,2,4,5
+CTM32680,Nữ,Quảng Trị,Năm 3,Tài chính doanh nghiệp,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,2,4,4,2,3,2,3,2,1
+CTM32684,Nữ,Hồ Chí Minh,Năm 4,Thương mại,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,5,5,5,3,5,5,4,3
+CTM3270,Nữ,Hồ Chí Minh,Năm 3,Quản trị khách sạn,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,3,4,3,3,4,2,4,4
+CTM32871,Nam,Hồ Chí Minh,Năm 4,Thương mại,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,3,3,4,3,4,4,4,3
+CTM33003,Nam,Nghệ An,Năm 2,Tài chính doanh nghiệp,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game",5,5,3,4,3,5,3,3,4,4
+CTM3302,Nam,Thanh Hóa,Năm 1,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,3,4,3,3,4,3,4,3,3,4
+CTM33032,Nam,Hồ Chí Minh,Năm 1,Khoa học dữ liệu,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,5,5,4,3,5,4,5,4
+CTM33091,Nam,Hồ Chí Minh,Năm 2,Hệ thống thông tin quản lý,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,5,5,4,5,2,5,3,4
+CTM33141,Nữ,Gia Lai,Năm 1,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,3,4,4,4,3,3,3,3,4
+CTM3320,Nam,Nghệ An,Năm 1,Hệ thống thông tin quản lý,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,5,5,4,2,4,4,5,4
+CTM33262,Nữ,Gia Lai,Năm 3,Thương mại điện tử,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,3,3,3,3,3,3,3,3,3
+CTM33290,Nữ,Hà Nội,Năm 2,Thương mại,Nông dân,Dưới 1.500.000,Dưới 6 tháng,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,2,3,4,2,3,2,4,5
+CTM33400,Nữ,Quảng Bình,Năm 3,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,5,5,5,4,4,3,3,5,5
+CTM33473,Nữ,Đà Nẵng,Năm 3,Quản trị Marketing,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,5,5,4,3,4,5
+CTM33481,Nữ,Hà Nội,Năm 4,Luật,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,2,2,4,3,4,2,3,4
+CTM34007,Nữ,Đà Nẵng,Năm 3,Quản trị Marketing,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,Học tập,5,5,3,3,3,5,5,3,5,3
+CTM34026,Nam,Quảng Bình,Năm 3,Tài chính doanh nghiệp,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,5,3,3,4,2,4,5,3,3
+CTM34310,Nữ,Đà Nẵng,Năm 1,Ngoại thương,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,2,3,5,3,3,5,5,3,2
+CTM34828,Nam,Hồ Chí Minh,Năm 4,Hệ thống thông tin quản lý,Nhân viên văn phòng,Trên 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game",5,5,5,5,4,1,2,2,3,4
+CTM34895,Nam,Đắk Nông,Năm 3,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,3,3,4,2,4,2,4,4
+CTM34916,Nam,Hà Nội,Năm 2,Ngoại thương,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,3,2,3,3,4,2,4,3,4,3
+CTM35043,Nữ,Hà Nội,Năm 2,Truyền thông Marketing,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Dưới 6 tháng,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,5,5,5,5,5,5,5,5
+CTM35044,Nam,Hà Tĩnh,Năm 3,Hệ thống thông tin quản lý,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Chơi game",4,3,5,5,4,2,3,2,4,4
+CTM35144,Nữ,Đắk Lắk,Năm 3,Kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,4,4,4,4,4,4
+CTM35242,Nữ,Quảng Trị,Năm 4,Luật,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",3,2,2,3,4,4,5,2,3,4
+CTM35279,Nữ,Hà Nội,Năm 3,Toán kinh tế,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",2,2,4,4,5,1,1,1,4,5
+CTM3536,Nữ,Hồ Chí Minh,Năm 3,Hệ thống thông tin quản lý,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game",4,3,5,5,4,2,4,3,5,4
+CTM35408,Nữ,Hà Nội,Năm 4,Kế toán,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",3,4,2,3,3,4,3,2,3,4
+CTM35436,Nữ,Hà Tĩnh,Năm 4,Kế toán,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,2,2,4,3,4,3,4,4
+CTM35452,Nữ,Hồ Chí Minh,Năm 3,Quan hệ công chúng,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,4,2,3,4,5,5,4,3,3
+CTM35554,Nữ,Hồ Chí Minh,Năm 2,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,3,3,4,4,2,3,4,4
+CTM35559,Nữ,Đắk Lắk,Năm 2,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,4,3,5,2,3,1,4,5
+CTM35812,Nam,Quảng Trị,Năm 2,Kiểm toán,Nông dân,Dưới 1.500.000,Từ 6 tháng - 1 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,2,3,4,4,4,3,4,5
+CTM35887,Nữ,Quảng Ngãi,Năm 4,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,3,4,4,4,3,4,4
+CTM35987,Nam,Hà Nội,Năm 2,Ngoại thương,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,4,4,4,4,4,2,4,4
+CTM36054,Nam,Hồ Chí Minh,Năm 1,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,3,4,4,3,3,4,3,3,2
+CTM36060,Nam,Gia Lai,Năm 2,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc",3,2,3,3,3,2,4,3,4,4
+CTM361,Nam,Đà Nẵng,Năm 2,Hệ thống thông tin quản lý,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,4,5,4,2,2,1,3,3
+CTM36125,Nam,Đà Nẵng,Năm 2,Luật kinh tế,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,3,3,3,3,3,3,3,3,3
+CTM36221,Nữ,Đà Nẵng,Năm 3,Thương mại điện tử,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,4,3,4,4,4,3,2,4,4
+CTM36411,Nữ,Hà Nội,Năm 2,Kiểm toán,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc",4,4,3,3,4,2,4,2,3,4
+CTM36435,Nữ,Hà Nội,Năm 1,Quản trị Marketing,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,3,3,4,1,1,1,2,4
+CTM36477,Nữ,Đắk Lắk,Năm 2,Quản trị Marketing,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,3,3,3,4,4,4,4,3
+CTM36487,Nam,Hà Nội,Năm 2,Kiểm toán,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,3,3,3,4,4,2,3,2,3,4
+CTM3658,Nữ,Quảng Bình,Năm 3,Ngoại thương,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,4,4,4,4,4,5
+CTM36788,Nam,Đà Nẵng,Năm 2,Luật kinh tế,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,4,4,4,2,3,1,4,5
+CTM36874,Nữ,Đà Nẵng,Năm 2,Luật kinh tế,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,3,4,3,3,3,3,3,3
+CTM36954,Nam,Hà Nội,Năm 1,Kiểm toán,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,3,3,4,2,2,2,4,4
+CTM36961,Nam,Đà Nẵng,Năm 3,Thương mại,Kinh doanh tự do,Trên 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,4,4,3,5,5,5,4,3
+CTM3705,Nữ,Nghệ An,Năm 2,Kinh tế phát triển,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Học tập,4,3,4,4,4,3,4,4,4,3
+CTM37115,Nữ,Hà Nội,Năm 2,Quản trị dịch vụ du lịch và lữ hành,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,4,4,4,2,2,2,3,3,2
+CTM37347,Nam,Quảng Ngãi,Năm 3,Truyền thông Marketing,Nông dân,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",3,5,4,4,3,4,2,2,3,3
+CTM37374,Nam,Hà Nội,Năm 3,Thương mại điện tử,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,4,3,4,3,2,3,2,3,4
+CTM37405,Nam,Hồ Chí Minh,Năm 1,Ngoại thương,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,5,5,4,2,2,3,4,4
+CTM37424,Nữ,Đắk Lắk,Năm 4,Luật kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,5,4,3,4,4,5,5
+CTM37457,Nữ,Thanh Hóa,Năm 4,Quản trị tài chính,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,5,2,3,4,5,3,4,3,4
+CTM37587,Nam,Nghệ An,Năm 2,Kinh tế phát triển,Nông dân,Dưới 1.500.000,Từ 6 tháng - 1 năm,Học tập,3,2,2,3,3,3,4,3,4,4
+CTM37622,Nữ,Thừa Thiên Huế,Năm 3,Truyền thông Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,4,2,3,5,4,5,3,2,4
+CTM37651,Nam,Hà Nội,Năm 1,Quản trị nguồn nhân lực,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,4,4,5,1,3,2,5,4
+CTM37730,Nam,Đắk Nông,Năm 4,Quản trị Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",2,3,3,3,4,2,3,3,4,3
+CTM37794,Nữ,Hà Nội,Năm 4,Kế toán,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,3,2,3,4,3,2,2,3,4
+CTM37982,Nữ,Thừa Thiên Huế,Năm 3,Kiểm toán,Nông dân,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",3,2,2,2,4,3,3,2,4,3
+CTM38026,Nữ,Quảng Bình,Năm 3,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",2,4,3,3,4,2,1,2,4,5
+CTM38206,Nữ,Đắk Lắk,Năm 3,Kinh tế,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,4,2,2,4,2,4,2,3,4
+CTM38300,Nam,Kon Tum,Năm 2,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",2,4,4,5,3,2,4,4,5,4
+CTM38345,Nữ,Đà Nẵng,Năm 4,Kế toán,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,2,2,3,3,2,4,2,4,3
+CTM38422,Nữ,Quảng Trị,Năm 3,Thương mại điện tử,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,2,3,3,4,2,3,2,4,4
+CTM38428,Nam,Bình Định,Năm 1,Quản trị nguồn nhân lực,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,5,5,5,4,4,3,5,3
+CTM38655,Nam,Hà Nội,Năm 3,Hệ thống thông tin quản lý,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,5,5,4,4,4,3,4,3
+CTM38799,Nam,Hà Tĩnh,Năm 4,Quản trị Marketing,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,5,5,3,4,3,4,4
+CTM38813,Nam,Gia Lai,Năm 1,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",2,2,4,4,5,1,2,2,2,4
+CTM38854,Nam,Đà Nẵng,Năm 1,Luật kinh tế,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Dưới 6 tháng,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,3,4,4,4,2,4,5,5
+CTM3902,Nữ,Đắk Lắk,Năm 4,Quan hệ công chúng,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,3,3,3,3,3,3,3,3,3
+CTM39234,Nam,Bình Định,Năm 1,Quản trị khách sạn,Nông dân,Từ 3.000.000 đến 5.000.000,Dưới 6 tháng,Học tập,5,1,2,2,2,2,3,2,2,3
+CTM39315,Nam,Đà Nẵng,Năm 4,Toán kinh tế,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",3,4,5,5,4,3,4,2,5,4
+CTM39474,Nữ,Hồ Chí Minh,Năm 3,Quản trị dịch vụ du lịch và lữ hành,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,4,3,2,3,3,4,4,3,5,4
+CTM39486,Nữ,Nghệ An,Năm 2,Truyền thông Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,3,3,4,4,4,3,5,5
+CTM39741,Nam,Hồ Chí Minh,Năm 2,Quản trị chuỗi cung ứng,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Chơi game",3,3,4,4,4,3,3,2,3,3
+CTM39762,Nam,Đà Nẵng,Năm 4,Quản trị khách sạn,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,4,5,4,3,3,2,3,3
+CTM39791,Nam,Hà Tĩnh,Năm 3,Ngân hàng,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,2,3,4,4,3,2
+CTM39808,Nữ,Quảng Trị,Năm 4,Toán kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,4,5,5,4,3,4,2,4,3
+CTM39813,Nữ,Hà Nội,Năm 2,Thương mại điện tử,Nông dân,Dưới 1.500.000,Dưới 6 tháng,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,5,5,4,4,5,4,5,4
+CTM40064,Nữ,Đắk Lắk,Năm 2,Thương mại,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",5,4,2,3,4,5,3,2,5,5
+CTM40072,Nữ,Quảng Bình,Năm 3,Quản trị nguồn nhân lực,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,4,4,2,3,4,4,2,3,4,4
+CTM40115,Nữ,Hồ Chí Minh,Năm 3,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,2,3,4,5,4,4,3,2
+CTM40124,Nữ,Đắk Nông,Năm 3,Quản trị dịch vụ du lịch và lữ hành,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,3,3,5,2,3,1,5,4
+CTM40160,Nữ,Hà Nội,Năm 4,Thương mại,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc",4,4,3,3,3,3,4,3,4,4
+CTM40202,Nam,Đà Nẵng,Năm 3,Ngoại thương,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Làm việc",5,4,2,3,4,2,5,5,4,3
+CTM40284,Nữ,Quảng Bình,Năm 1,Kinh tế phát triển,Nông dân,Dưới 1.500.000,Từ 6 tháng - 1 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,3,3,5,4,5,2,4,4
+CTM40286,Nữ,Đà Nẵng,Năm 4,Thương mại,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,4,4,3,2,4,2,4,2
+CTM40404,Nữ,Hà Nội,Năm 4,Kế toán,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,4,2,3,4,2,4,2,4,4
+CTM40487,Nam,Nghệ An,Năm 2,Tài chính doanh nghiệp,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,Học tập,3,4,3,4,3,3,4,3,4,4
+CTM40609,Nam,Hồ Chí Minh,Năm 2,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,3,3,5,5,5,5,4,3
+CTM40746,Nữ,Quảng Trị,Năm 2,Quản trị kinh doanh,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,3,3,3,3,3,3,3,3
+CTM40752,Nữ,Hà Nội,Năm 4,Thương mại,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,5,3,5,2,5,5
+CTM40821,Nữ,Hồ Chí Minh,Năm 3,Thương mại,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,2,2,4,4,2,2,4,3
+CTM40854,Nữ,Hà Nội,Năm 3,Ngoại thương,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,5,5,4,5,3,2,2,5
+CTM4089,Nữ,Hồ Chí Minh,Năm 2,Kế toán,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,3,2,3,2,3,1,2,2
+CTM4096,Nam,Hà Nội,Năm 2,Thương mại điện tử,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",4,3,4,4,2,3,3,2,3,3
+CTM4106,Nữ,Bình Định,Năm 1,Kinh tế đầu tư,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,4,5,2,3,2,5,4
+CTM41214,Nữ,Hà Tĩnh,Năm 1,Quản trị Marketing,Nông dân,Dưới 1.500.000,Dưới 6 tháng,Học tập,4,1,1,1,1,3,3,3,3,3
+CTM41422,Nam,Đà Nẵng,Năm 3,Truyền thông Marketing,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,5,4,5,4,5,5
+CTM41426,Nam,Hồ Chí Minh,Năm 3,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,3,4,3,5,3,3,3,3
+CTM41481,Nam,Đà Nẵng,Năm 2,Thương mại điện tử,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,2,2,2,3,3,2
+CTM41530,Nữ,Quảng Trị,Năm 3,Kế toán,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",2,4,2,3,4,3,4,2,3,4
+CTM41579,Nữ,Đắk Lắk,Năm 3,Quản trị khách sạn,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,4,2,3,4,3,3,2,3,4
+CTM41626,Nam,Bình Định,Năm 4,Thương mại điện tử,Nông dân,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Làm việc, Chơi game",5,4,3,3,3,4,4,3,4,4
+CTM41742,Nữ,Thừa Thiên Huế,Năm 3,Quản trị dịch vụ du lịch và lữ hành,Nông dân,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,Học tập,5,2,3,2,4,3,2,2,3,2
+CTM4175,Nam,Đắk Nông,Năm 3,Quản lý nhà nước,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,4,3,4,3,5,5
+CTM42049,Nam,Hồ Chí Minh,Năm 3,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,5,3,3,3,5,5,2,2,3
+CTM42161,Nữ,Đắk Nông,Năm 4,Ngoại thương,Kinh doanh tự do,Trên 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,3,4,4,2,2,3,4,4,2
+CTM42209,Nữ,Quảng Bình,Năm 2,Luật,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,4,4,4,4,4,4,4,4
+CTM42264,Nữ,Thanh Hóa,Năm 3,Ngân hàng,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",2,4,2,3,4,5,3,4,5,5
+CTM42310,Nữ,Nghệ An,Năm 3,Luật kinh tế,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,4,5,4,5,4,2,4,4
+CTM42322,Nữ,Hồ Chí Minh,Năm 2,Quan hệ công chúng,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,3,4,4,5,2,3,3,4
+CTM42335,Nữ,Đắk Lắk,Năm 3,Luật,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,4,4,4,3,4,4,4,4
+CTM42458,Nam,Hà Nội,Năm 2,Hệ thống thông tin quản lý,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,5,4,5,3,5,5
+CTM42582,Nữ,Gia Lai,Năm 3,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,4,3,3,4,4,2,5,3,4,5
+CTM42686,Nữ,Thanh Hóa,Năm 3,Tài chính doanh nghiệp,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,3,3,4,1,2,4,3,3,5
+CTM42691,Nam,Đà Nẵng,Năm 4,Thương mại,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,Học tập,5,4,4,4,4,4,3,3,3,3
+CTM42756,Nam,Đà Nẵng,Năm 4,Quản trị kinh doanh,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,4,5,5,5,4,5,5,5,4
+CTM42772,Nữ,Quảng Trị,Năm 2,Thương mại,Nông dân,Dưới 1.500.000,Trên 2 năm,Học tập,2,2,3,3,5,4,5,2,5,5
+CTM42916,Nữ,Quảng Trị,Năm 2,Quản trị dịch vụ du lịch và lữ hành,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,3,3,4,2,2,1,2,4
+CTM42917,Nữ,Hà Nội,Năm 2,Kinh tế phát triển,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,3,5,4,5,2,5,5
+CTM43273,Nam,Đắk Nông,Năm 2,Hệ thống thông tin quản lý,Nông dân,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game",4,3,5,5,4,2,3,2,4,4
+CTM43399,Nữ,Hà Tĩnh,Năm 4,Thương mại,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,3,3,5,3,5,3,5,5
+CTM43412,Nam,Hồ Chí Minh,Năm 4,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,Học tập,5,4,3,3,3,5,5,5,3,3
+CTM43421,Nam,Hồ Chí Minh,Năm 2,Ngoại thương,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,3,3,4,3,3,4,3
+CTM43452,Nam,Đà Nẵng,Năm 1,Ngoại thương,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Dưới 6 tháng,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,5,5,5,5,5,5,5,5
+CTM43487,Nam,Đắk Lắk,Năm 3,Thương mại điện tử,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,5,5,4,5,5,5,5,4
+CTM43636,Nữ,Đà Nẵng,Năm 2,Quản trị chuỗi cung ứng,Kinh doanh tự do,Trên 5.000.000,Trên 2 năm,Học tập,5,4,4,4,4,4,4,4,4,4
+CTM43741,Nữ,Quảng Trị,Năm 3,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",5,4,4,4,5,2,2,2,4,4
+CTM43846,Nữ,Hà Nội,Năm 4,Thương mại,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,5,4,4,4,4,4
+CTM43958,Nam,Hà Nội,Năm 2,Kiểm toán,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Học tập,4,4,3,4,4,3,5,3,4,4
+CTM44092,Nữ,Đắk Lắk,Năm 1,Luật kinh tế,Nông dân,Dưới 1.500.000,Trên 2 năm,"Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,3,2,2,3,4,4
+CTM44150,Nữ,Hà Tĩnh,Năm 3,Thương mại,Nông dân,Dưới 1.500.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc",4,4,2,3,4,3,4,3,4,4
+CTM44211,Nữ,Phú Yên,Năm 4,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,3,3,5,4,5,3,4,4
+CTM4436,Nam,Đắk Lắk,Năm 3,Hệ thống thông tin quản lý,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Chơi game",4,3,5,5,3,4,3,4,4,5
+CTM44365,Nữ,Hồ Chí Minh,Năm 1,Quản trị nguồn nhân lực,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,3,3,3,3,3,3,3,3
+CTM44386,Nam,Đà Nẵng,Năm 2,Thương mại,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",3,4,3,4,4,4,3,3,5,4
+CTM44430,Nữ,Nghệ An,Năm 4,Kế toán,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,3,2,3,4,5,3,4,3,4
+CTM44439,Nữ,Đà Nẵng,Năm 4,Thương mại,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",2,2,4,4,5,1,2,1,2,4
+CTM4454,Nam,Hà Nội,Năm 3,Hệ thống thông tin quản lý,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game",5,2,5,5,4,2,4,3,4,5
+CTM44625,Nữ,Thừa Thiên Huế,Năm 4,Ngoại thương,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web), Khác",4,4,3,4,4,4,4,3,4,4
+CTM447,Nữ,Đắk Lắk,Năm 3,Quản trị chuỗi cung ứng,Nông dân,Dưới 1.500.000,Trên 2 năm,Học tập,5,4,2,3,4,4,4,2,3,4
+CTM44730,Nữ,Thừa Thiên Huế,Năm 1,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,2,2,3,4,2,3,2,3,4
+CTM44850,Nam,Đà Nẵng,Năm 1,Luật,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Khác,4,3,5,5,4,4,3,3,3,2
+CTM44993,Nam,Hồ Chí Minh,Năm 2,Ngoại thương,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,5,5,3,4,5,4,4,4
+CTM45303,Nữ,Thừa Thiên Huế,Năm 2,Kế toán,Nông dân,Dưới 1.500.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc",3,3,3,3,4,2,4,2,5,5
+CTM45430,Nữ,Hồ Chí Minh,Năm 1,Quản trị nguồn nhân lực,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,Học tập,5,5,2,3,4,4,3,2,3,4
+CTM45547,Nữ,Hà Nội,Năm 2,Thương mại,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,3,4,4,2,2,4,4
+CTM45660,Nam,Đắk Nông,Năm 3,Quản trị kinh doanh,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,5,4,4,2,5,4
+CTM4567,Nữ,Đắk Nông,Năm 2,Quản trị Marketing,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game",5,3,3,3,3,3,3,3,3,3
+CTM45685,Nữ,Hà Nội,Năm 3,Quản trị kinh doanh,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,4,2,3,4,3,2,4,3,5
+CTM45690,Nữ,Đà Nẵng,Năm 1,Quản trị khách sạn,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Chơi game,4,4,4,4,4,4,4,4,4,4
+CTM45810,Nữ,Quảng Trị,Năm 3,Quản trị nguồn nhân lực,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",3,2,3,3,5,1,3,1,4,5
+CTM45930,Nam,Hà Nội,Năm 3,Toán kinh tế,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",2,4,5,5,5,2,2,2,5,5
+CTM45953,Nam,Quảng Bình,Năm 2,Quản trị nguồn nhân lực,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Khác",4,3,4,4,4,2,2,3,3,3
+CTM4598,Nam,Hà Nội,Năm 2,Kiểm toán,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game",3,2,3,4,3,2,3,2,4,3
+CTM46007,Nữ,Quảng Trị,Năm 3,Quản trị tài chính,Nông dân,Dưới 1.500.000,Từ 6 tháng - 1 năm,Học tập,5,4,2,3,4,3,5,2,3,4
+CTM46088,Nữ,Hà Nội,Năm 2,Tài chính doanh nghiệp,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,2,2,4,4,4,3,3,4
+CTM46191,Nữ,Hồ Chí Minh,Năm 3,Quản trị dịch vụ du lịch và lữ hành,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,5,5,5,4,4,4,4,5
+CTM46193,Nữ,Thừa Thiên Huế,Năm 1,Luật,Nông dân,Dưới 1.500.000,Từ 6 tháng - 1 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,2,2,5,3,4,2,5,5
+CTM46225,Nữ,Đà Nẵng,Năm 3,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game",3,3,4,4,4,3,2,3,4,2
+CTM46312,Nam,Hà Nội,Năm 2,Hệ thống thông tin quản lý,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,4,4,5,5,4,3,3,3,4,4
+CTM46336,Nữ,Bình Định,Năm 2,Luật kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,5,3,3,4,4,5,3,3,4,4
+CTM46361,Nam,Đà Nẵng,Năm 3,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,3,3,3,3,3,3,3,3,3
+CTM46385,Nam,Hà Nội,Năm 4,Ngoại thương,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Dưới 6 tháng,Học tập,4,3,3,3,3,3,3,3,3,3
+CTM4644,Nữ,Thừa Thiên Huế,Năm 3,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc",4,4,4,4,4,4,4,4,4,3
+CTM46471,Nam,Hồ Chí Minh,Năm 3,Quản trị kinh doanh,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,4,4,5,4,5,5
+CTM46483,Nữ,Quảng Trị,Năm 4,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,3,3,2,2,3,2,3,3,2,3
+CTM46701,Nam,Gia Lai,Năm 3,Quản trị Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,3,3,3,3,3,3,3,3,3
+CTM4684,Nam,Đà Nẵng,Năm 2,Hệ thống thông tin quản lý,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game",5,4,5,5,4,5,5,4,4,5
+CTM46947,Nữ,Hồ Chí Minh,Năm 1,Luật kinh tế,Nông dân,Dưới 1.500.000,Dưới 6 tháng,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web), Khác",4,5,5,4,5,3,4,5,5,4
+CTM47080,Nam,Hồ Chí Minh,Năm 3,Quan hệ công chúng,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",2,4,3,3,4,2,3,3,4,4
+CTM4710,Nữ,Kon Tum,Năm 4,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,Học tập,5,3,3,3,3,3,3,3,3,3
+CTM47433,Nữ,Hồ Chí Minh,Năm 4,Ngoại thương,Công chức nhà nước,Dưới 1.500.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,4,3,4,3,4,4
+CTM47500,Nam,Hà Nội,Năm 4,Hệ thống thông tin quản lý,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,5,5,5,4,2,3,4,5,5
+CTM47598,Nữ,Đà Nẵng,Năm 3,Thương mại điện tử,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,4,3,3,4,4,5,2,4,4
+CTM47639,Nữ,Hà Nội,Năm 2,Quản trị chuỗi cung ứng,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,4,5,5,4,4,5,5,5,3
+CTM4767,Nam,Hồ Chí Minh,Năm 2,Quản trị nguồn nhân lực,Kinh doanh tự do,Dưới 1.500.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,5,4,4,4,5,4
+CTM47780,Nữ,Hà Nội,Năm 4,Kế toán,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",2,2,3,3,4,2,4,2,3,4
+CTM47857,Nữ,Quảng Trị,Năm 3,Toán kinh tế,Nông dân,Dưới 1.500.000,Trên 2 năm,Học tập,4,4,4,5,4,3,2,2,4,5
+CTM47998,Nữ,Bình Định,Năm 4,Luật kinh tế,Nông dân,Dưới 1.500.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,3,4,5,2,3,2,5,5
+CTM48119,Nữ,Gia Lai,Năm 4,Luật kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,4,4,5,3,3,2,4,5
+CTM48185,Nam,Hồ Chí Minh,Năm 2,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,4,4,3,5,3,2,2,3
+CTM48186,Nữ,Thanh Hóa,Năm 1,Quản trị dịch vụ du lịch và lữ hành,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,3,4,4,4,4,3
+CTM48324,Nam,Quảng Trị,Năm 4,Ngoại thương,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,4,4,4,2,4,5,5
+CTM48332,Nữ,Quảng Ngãi,Năm 3,Truyền thông Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,3,3,5,2,5,2,4,3
+CTM48330,Nam,Hà Nội,Năm 4,Luật,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",3,2,4,4,4,3,4,3,4,3
+CTM48333,Nữ,Đắk Nông,Năm 3,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,4,3,3,4,2,3,3,2
+CTM48371,Nam,Hà Tĩnh,Năm 3,Hệ thống thông tin quản lý,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,3,4,4,5,3,4,3,3,5,3
+CTM48384,Nữ,Hồ Chí Minh,Năm 2,Thương mại điện tử,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",3,4,3,3,4,4,4,2,4,4
+CTM48421,Nam,Đà Nẵng,Năm 3,Hệ thống thông tin quản lý,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,5,5,4,4,5,4,5,5
+CTM48444,Nam,Gia Lai,Năm 2,Luật,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,4,4,4,3,3,3,4,4
+CTM48453,Nữ,Hà Nội,Năm 3,Kế toán,Nông dân,Dưới 1.500.000,Từ 6 tháng - 1 năm,Học tập,2,4,3,3,5,4,5,2,4,5
+CTM48651,Nữ,Thừa Thiên Huế,Năm 3,Kế toán,Nông dân,Dưới 1.500.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",2,2,2,3,4,4,5,2,5,5
+CTM48664,Nam,Bình Định,Năm 2,Quan hệ công chúng,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,4,4,4,4,4,4,4,4
+CTM48793,Nam,Đà Nẵng,Năm 2,Ngân hàng,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,3,3,3,3,4,2,3,4,3,4
+CTM48861,Nữ,Quảng Ngãi,Năm 4,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,4,2,5,2,5,4
+CTM49137,Nam,Gia Lai,Năm 4,Tài chính doanh nghiệp,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,3,2,5,2,4,4
+CTM49241,Nam,Thừa Thiên Huế,Năm 4,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,3,2,3,3,4,2,3,2,3,4
+CTM49273,Nam,Đà Nẵng,Năm 4,Ngoại thương,Công chức nhà nước,Trên 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc",4,4,3,3,3,2,3,4,4,3
+CTM49384,Nữ,Hà Nội,Năm 3,Quản trị Marketing,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,5,3,5,4,5,5,5,4
+CTM49444,Nam,Thừa Thiên Huế,Năm 3,Thương mại,Nông dân,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,4,4,4,1,1,2,3,4
+CTM49664,Nam,Nghệ An,Năm 3,Ngoại thương,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,5,5,5,4,5,4,4,4
+CTM49714,Nữ,Quảng Bình,Năm 4,Thương mại,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,3,3,4,3,5,3,5,4
+CTM49786,Nữ,Đắk Lắk,Năm 4,Thương mại,Nông dân,Dưới 1.500.000,Dưới 6 tháng,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,3,3,4,5,5,4,4,3,3
+CTM49806,Nam,Hà Nội,Năm 4,Thương mại điện tử,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",3,4,4,4,4,2,3,3,4,4
+CTM49896,Nữ,Đà Nẵng,Năm 3,Ngoại thương,Kinh doanh tự do,Trên 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,4,4,4,4,4,2
+CTM49998,Nam,Hồ Chí Minh,Năm 3,Ngoại thương,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,4,4,4,5,4,3,4,3
+CTM50075,Nam,Bình Định,Năm 1,Thương mại điện tử,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,4,4,4,2,2,3,3,3,2
+CTM50196,Nữ,Thừa Thiên Huế,Năm 2,Quản trị nguồn nhân lực,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,Học tập,3,2,3,3,4,3,4,2,4,4
+CTM50330,Nam,Hồ Chí Minh,Năm 4,Quản trị dịch vụ du lịch và lữ hành,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,3,4,3,3,3,2,4,4
+CTM50336,Nữ,Quảng Ngãi,Năm 1,Luật kinh tế,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,5,5,5,3,5,3,3,3
+CTM50337,Nữ,Gia Lai,Năm 2,Tài chính doanh nghiệp,Nông dân,Dưới 1.500.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,5,5,5,3,3,2,5,5
+CTM50364,Nữ,Hồ Chí Minh,Năm 3,Ngoại thương,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc",3,5,2,2,3,5,5,5,2,3
+CTM50438,Nữ,Quảng Trị,Năm 3,Kế toán,Nông dân,Dưới 1.500.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,3,4,4,4,4,2,4,4
+CTM50471,Nữ,Hồ Chí Minh,Năm 4,Hệ thống thông tin quản lý,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web), Khác",4,3,5,5,4,4,5,4,4,4
+CTM50601,Nữ,Quảng Trị,Năm 3,Toán kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",3,2,5,5,4,2,1,2,4,5
+CTM5078,Nam,Đắk Lắk,Năm 3,Quản lý nhà nước,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,5,5,3,3,4,3,4,4
+CTM50798,Nam,Đà Nẵng,Năm 3,Thương mại điện tử,Công chức nhà nước,Trên 5.000.000,Dưới 6 tháng,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,2,4,2,4,1,3,4,4
+CTM50921,Nữ,Quảng Trị,Năm 4,Kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,5,3,4,4,4,4
+CTM51018,Nam,Thừa Thiên Huế,Năm 4,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,5,3,4,2,5,4
+CTM51030,Nữ,Thanh Hóa,Năm 2,Tài chính doanh nghiệp,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,3,3,4,4,5,5,4,4
+CTM51061,Nam,Gia Lai,Năm 1,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,5,4,5,5,5,5
+CTM51089,Nữ,Gia Lai,Năm 3,Thương mại,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web), Khác",4,4,3,3,4,2,2,2,3,2
+CTM51217,Nữ,Hồ Chí Minh,Năm 3,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,4,4,4,2,4,4,4,4,2
+CTM51354,Nữ,Nghệ An,Năm 2,Quản lý nhà nước,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,3,3,5,2,2,1,3,5
+CTM51467,Nữ,Hồ Chí Minh,Năm 4,Quản trị chuỗi cung ứng,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,Học tập,4,4,3,4,4,3,4,3,4,3
+CTM51617,Nữ,Kon Tum,Năm 1,Quản lý nhà nước,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,2,3,4,4,2,2,4,5
+CTM51635,Nam,Hà Nội,Năm 2,Quản trị chuỗi cung ứng,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",3,2,4,4,4,2,2,2,4,4
+CTM51739,Nam,Đắk Lắk,Năm 3,Quản trị dịch vụ du lịch và lữ hành,Nông dân,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,5,5,4,5,5,5,5,5
+CTM52006,Nữ,Thừa Thiên Huế,Năm 4,Quản trị khách sạn,Nông dân,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",2,4,2,3,4,4,5,2,3,4
+CTM52013,Nữ,Quảng Bình,Năm 4,Ngoại thương,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",2,4,5,5,4,4,4,4,5,4
+CTM52079,Nữ,Bình Định,Năm 1,Quản trị khách sạn,Công chức nhà nước,Dưới 1.500.000,Từ 6 tháng - 1 năm,Làm việc,3,4,4,4,4,4,4,4,4,4
+CTM52091,Nam,Thừa Thiên Huế,Năm 3,Quản trị nguồn nhân lực,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,3,4,3,3,4,4,3,4,4,3
+CTM52205,Nữ,Hồ Chí Minh,Năm 2,Tài chính doanh nghiệp,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,2,3,4,5,3,2,3,3
+CTM52343,Nữ,Hồ Chí Minh,Năm 4,Truyền thông Marketing,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,5,4,2,4,3,4,3
+CTM52387,Nam,Hà Tĩnh,Năm 2,Hệ thống thông tin quản lý,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,4,2,5,4,3,3
+CTM52640,Nữ,Gia Lai,Năm 3,Quản lý nhà nước,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",3,4,4,4,4,3,3,3,3,3
+CTM52715,Nam,Thừa Thiên Huế,Năm 3,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Chơi game",3,2,3,4,3,4,3,4,3,4
+CTM52837,Nữ,Quảng Bình,Năm 4,Quản trị khách sạn,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,3,3,4,4,4,2,3,4
+CTM52880,Nam,Hà Nội,Năm 3,Quản trị Marketing,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Chơi game",5,3,3,3,3,3,3,3,3,3
+CTM53134,Nữ,Gia Lai,Năm 3,Thương mại,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,5,5,4,4,5,5
+CTM53159,Nam,Hồ Chí Minh,Năm 1,Khoa học dữ liệu,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game",3,3,5,5,4,2,3,2,4,4
+CTM53204,Nữ,Thanh Hóa,Năm 2,Luật,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,3,4,2,2,4,4,4,2,4,4
+CTM53551,Nam,Bình Định,Năm 4,Luật kinh tế,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,5,4,4,5,5,5
+CTM53583,Nữ,Bình Định,Năm 1,Quản trị khách sạn,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Làm việc,3,4,4,4,4,4,4,4,4,4
+CTM53587,Nam,Thừa Thiên Huế,Năm 1,Thương mại,Nông dân,Dưới 1.500.000,Dưới 6 tháng,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,3,3,4,5,5,3,4,5
+CTM5367,Nữ,Thanh Hóa,Năm 3,Ngoại thương,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc",4,2,3,4,3,2,3,4,3,4
+CTM5378,Nam,Hà Nội,Năm 4,Thương mại,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,4,4,2,4,4,4,3,3
+CTM53849,Nữ,Hồ Chí Minh,Năm 3,Luật kinh tế,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,3,3,3,3,3,3,3,3,3
+CTM54036,Nữ,Hà Nội,Năm 2,Ngoại thương,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,2,3,4,3,4,2,3,4
+CTM54161,Nữ,Quảng Trị,Năm 3,Ngoại thương,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,2,3,4,4,2,2,3,4
+CTM54206,Nam,Quảng Bình,Năm 2,Tài chính doanh nghiệp,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,4,4,5,2,2,1,4,3
+CTM5433,Nữ,Hà Nội,Năm 3,Thương mại điện tử,Nông dân,Dưới 1.500.000,Trên 2 năm,Học tập,4,3,4,4,4,3,2,3,4,4
+CTM54391,Nam,Hà Nội,Năm 1,Luật kinh tế,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,4,4,3,3,3,3,4,3
+CTM54570,Nữ,Nghệ An,Năm 3,Quản trị Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,5,3,3,4,4,4,2,4,4
+CTM5472,Nam,Hà Nội,Năm 2,Kế toán,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,3,3,3,3,3,3,3,3,3
+CTM5478,Nam,Thừa Thiên Huế,Năm 4,Quản trị kinh doanh,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",3,4,3,4,4,4,5,3,3,2
+CTM54866,Nữ,Hồ Chí Minh,Năm 2,Luật,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",4,3,4,4,3,3,3,3,4,4
+CTM54877,Nữ,Gia Lai,Năm 3,Luật,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,4,4,4,4,4,4
+CTM54926,Nữ,Đà Nẵng,Năm 2,Quản trị kinh doanh,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,5,3,3,4,5,4,3,3,4
+CTM54944,Nữ,Bình Định,Năm 1,Quản trị khách sạn,Nông dân,Dưới 1.500.000,Dưới 6 tháng,Học tập,3,3,3,3,3,2,2,1,1,1
+CTM54962,Nam,Đà Nẵng,Năm 2,Quản trị dịch vụ du lịch và lữ hành,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",3,4,2,3,4,2,4,2,3,4
+CTM55060,Nam,Quảng Bình,Năm 2,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game",3,4,3,4,3,3,4,2,3,4
+CTM55181,Nam,Quảng Trị,Năm 3,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",4,3,4,4,5,2,3,2,4,4
+CTM55194,Nữ,Hà Tĩnh,Năm 2,Truyền thông Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",3,2,2,3,4,5,4,2,4,3
+CTM55287,Nam,Quảng Ngãi,Năm 2,Luật kinh tế,Nông dân,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,3,3,4,2,3,1,4,4
+CTM55297,Nam,Hà Nội,Năm 4,Thương mại điện tử,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game",5,3,4,4,2,3,2,4,3,2
+CTM55420,Nữ,Quảng Bình,Năm 3,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",5,4,3,4,4,2,4,2,4,5
+CTM55447,Nữ,Hà Nội,Năm 4,Thương mại điện tử,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,4,5,5,3,5,5
+CTM55484,Nữ,Hà Nội,Năm 4,Kế toán,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",3,4,2,3,4,4,3,2,4,4
+CTM55614,Nam,Gia Lai,Năm 4,Ngân hàng,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,4,4,4,4,4,4
+CTM55787,Nam,Quảng Trị,Năm 4,Quản trị Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game",4,5,5,5,4,2,3,4,5,5
+CTM55818,Nữ,Quảng Trị,Năm 2,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,4,3,4,4,2,3,2,4,4
+CTM55857,Nữ,Bình Định,Năm 4,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",2,4,3,3,4,4,2,2,3,4
+CTM56001,Nữ,Quảng Bình,Năm 3,Luật kinh tế,Nông dân,Dưới 1.500.000,Dưới 6 tháng,"Học tập, Làm việc",3,4,2,2,5,3,3,2,4,4
+CTM56002,Nam,Hà Nội,Năm 3,Ngoại thương,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,3,4,3,3,5,5
+CTM5611,Nam,Hồ Chí Minh,Năm 1,Khoa học dữ liệu,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",5,5,5,5,3,4,5,4,5,4
+CTM56361,Nam,Quảng Bình,Năm 4,Quản trị dịch vụ du lịch và lữ hành,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,4,4,4,2,3,2,4,3
+CTM56429,Nữ,Nghệ An,Năm 4,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,2,3,4,2,4,2,4,5
+CTM56437,Nữ,Hồ Chí Minh,Năm 4,Thương mại điện tử,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Làm việc",3,5,2,2,3,5,5,4,5,5
+CTM56466,Nữ,Đà Nẵng,Năm 4,Kế toán,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,2,2,3,3,4,3,3,3,3
+CTM56488,Nam,Quảng Bình,Năm 3,Kiểm toán,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,Học tập,4,4,2,3,4,2,4,2,4,4
+CTM56492,Nữ,Gia Lai,Năm 4,Luật kinh tế,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Chơi game",4,2,3,3,4,2,3,3,4,3
+CTM5656,Nữ,Bình Định,Năm 1,Quản trị khách sạn,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Chơi game,4,4,4,4,4,4,4,4,4,4
+CTM56729,Nữ,Bình Định,Năm 1,Ngoại thương,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,4,4,4,4,5,5,5,4
+CTM56755,Nam,Hồ Chí Minh,Năm 4,Quản trị kinh doanh,Nhân viên văn phòng,Trên 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,3,3,4,3,4,3,3
+CTM56866,Nữ,Hà Tĩnh,Năm 2,Toán kinh tế,Nông dân,Dưới 1.500.000,Từ 6 tháng - 1 năm,Học tập,5,4,4,5,3,3,2,4,5,5
+CTM56882,Nam,Hà Nội,Năm 3,Toán kinh tế,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,4,4,5,5,4,3
+CTM56950,Nữ,Đắk Lắk,Năm 2,Kế toán,Nông dân,Dưới 1.500.000,Dưới 6 tháng,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,2,2,5,4,2,2,3,4
+CTM56983,Nữ,Đắk Lắk,Năm 3,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,2,3,4,4,4,3,4,2,3
+CTM56984,Nữ,Thừa Thiên Huế,Năm 2,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",3,5,2,3,4,5,3,2,3,4
+CTM57166,Nam,Hà Tĩnh,Năm 2,Ngoại thương,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,5,5,3,4,3,5,5,3
+CTM57180,Nam,Hồ Chí Minh,Năm 4,Thương mại,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,5,5,5,5,5,5,5,5
+CTM57301,Nữ,Quảng Trị,Năm 2,Luật,Nông dân,Dưới 1.500.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,3,5,2,4,2,5,5
+CTM57308,Nữ,Hà Nội,Năm 4,Thương mại,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,3,3,5,3,4,3,5,5
+CTM57399,Nữ,Đắk Lắk,Năm 1,Kinh tế,Nông dân,Dưới 1.500.000,Dưới 6 tháng,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,3,4,5,2,2,2,5,5
+CTM57421,Nữ,Đắk Lắk,Năm 2,Tài chính doanh nghiệp,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,3,2,2,2,4,3,4,3,4,4
+CTM5743,Nữ,Hà Nội,Năm 4,Kế toán,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,3,3,4,2,3,2,3,4
+CTM57492,Nam,Nghệ An,Năm 1,Hệ thống thông tin quản lý,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Chơi game",4,3,5,5,3,3,5,4,5,4
+CTM57529,Nam,Gia Lai,Năm 2,Thương mại điện tử,Công chức nhà nước,Trên 5.000.000,Dưới 6 tháng,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,3,4,4,1,3,3,3,2,1
+CTM57531,Nam,Hồ Chí Minh,Năm 3,Ngoại thương,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Học tập,3,2,3,3,3,5,4,4,3,3
+CTM57571,Nữ,Đắk Lắk,Năm 3,Truyền thông Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,4,2,3,4,5,4,2,3,4
+CTM57621,Nữ,Đà Nẵng,Năm 3,Thương mại điện tử,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,2,3,4,4,2,4,3,4,4
+CTM57661,Nam,Hồ Chí Minh,Năm 2,Toán kinh tế,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game",4,4,4,4,3,4,4,3,5,4
+CTM57706,Nữ,Quảng Trị,Năm 3,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,4,3,4,4,2,4,2,4,5
+CTM57748,Nữ,Hà Tĩnh,Năm 3,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Học tập,4,4,3,4,4,3,4,3,4,4
+CTM57817,Nữ,Hồ Chí Minh,Năm 3,Toán kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,5,5,2,3,4,5,4,2,4,4
+CTM57848,Nữ,Hà Nội,Năm 3,Toán kinh tế,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,4,5,4,2,4,2,4,4
+CTM57890,Nữ,Gia Lai,Năm 4,Quản lý nhà nước,Nông dân,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",4,4,4,4,5,5,5,4,4,4
+CTM57916,Nam,Đà Nẵng,Năm 3,Kiểm toán,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game",4,4,3,4,3,5,3,4,3,3
+CTM57957,Nam,Hồ Chí Minh,Năm 1,Luật kinh tế,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,3,3,4,2,3,2,5,4
+CTM57993,Nam,Đắk Nông,Năm 2,Hệ thống thông tin quản lý,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Chơi game",4,3,5,5,4,3,4,3,4,5
+CTM58063,Nữ,Hà Tĩnh,Năm 2,Luật kinh tế,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,4,4,5,5,5,3,3,4
+CTM58137,Nam,Đắk Lắk,Năm 4,Luật,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,4,4,5,3,4,2,4,4
+CTM58166,Nữ,Quảng Bình,Năm 3,Thương mại,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,3,4,3,4,4,2,3,3,4,5
+CTM58271,Nam,Quảng Ngãi,Năm 1,Thương mại điện tử,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",4,4,4,4,2,2,3,3,3,2
+CTM58279,Nữ,Hồ Chí Minh,Năm 4,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,4,4,4,4,4,4
+CTM58394,Nữ,Quảng Bình,Năm 4,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",5,5,5,5,5,5,5,5,5,5
+CTM5840,Nữ,Quảng Trị,Năm 3,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web), Khác",4,5,5,5,4,3,4,3,3,3
+CTM58500,Nữ,Hà Tĩnh,Năm 2,Quản trị nguồn nhân lực,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,Học tập,3,4,2,3,3,4,3,2,4,3
+CTM58611,Nữ,Hà Nội,Năm 1,Kinh tế,Nông dân,Dưới 1.500.000,Từ 6 tháng - 1 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,2,2,5,2,5,1,5,5
+CTM58660,Nữ,Hồ Chí Minh,Năm 1,Quản trị dịch vụ du lịch và lữ hành,Kinh doanh tự do,Dưới 1.500.000,Từ 6 tháng - 1 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,5,5,5,5,5,5
+CTM58787,Nữ,Hà Nội,Năm 4,Kế toán,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,4,2,2,3,4,2,3,4,4
+CTM58872,Nam,Hồ Chí Minh,Năm 2,Quan hệ công chúng,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Chơi game",4,4,4,4,4,1,3,4,4,4
+CTM58959,Nam,Hồ Chí Minh,Năm 4,Thương mại,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,4,4,4,4,5,4,5,4
+CTM58972,Nữ,Gia Lai,Năm 1,Quản lý nhà nước,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,3,3,5,3,4,3,5,5
+CTM59047,Nữ,Hồ Chí Minh,Năm 2,Quản trị khách sạn,Công chức nhà nước,Dưới 1.500.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,4,3,5,4,5,2,5,4
+CTM59101,Nữ,Nghệ An,Năm 4,Quản trị dịch vụ du lịch và lữ hành,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,4,3,5,1,2,1,3,4
+CTM5916,Nam,Quảng Trị,Năm 3,Thương mại điện tử,Nông dân,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,Làm việc,4,4,4,4,4,3,3,3,4,4
+CTM59222,Nữ,Bình Định,Năm 2,Ngoại thương,Nhân viên văn phòng,Trên 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,4,4,4,4,4,4
+CTM5936,Nam,Hà Nội,Năm 2,Ngoại thương,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,4,4,4,4,3,3
+CTM59477,Nam,Hà Tĩnh,Năm 1,Luật kinh tế,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game",3,2,3,4,3,5,4,4,3,3
+CTM59497,Nam,Quảng Bình,Năm 1,Hệ thống thông tin quản lý,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game",4,3,5,5,4,2,4,3,4,4
+CTM59533,Nữ,Hà Tĩnh,Năm 3,Thương mại,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc",4,4,3,3,4,4,4,2,3,4
+CTM59554,Nữ,Hà Nội,Năm 2,Thương mại,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,2,2,2,4,4,3,4,2,4,3
+CTM59676,Nữ,Quảng Trị,Năm 4,Quản trị khách sạn,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,3,3,1,1,3,1,1,1,3
+CTM60051,Nữ,Hồ Chí Minh,Năm 3,Kế toán,Nông dân,Dưới 1.500.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,4,4,4,4,4,4
+CTM60097,Nữ,Thanh Hóa,Năm 2,Ngân hàng,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,4,2,3,4,4,4,3,5,5
+CTM60129,Nữ,Quảng Trị,Năm 4,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",3,4,2,2,4,3,4,2,3,4
+CTM60279,Nữ,Hà Nội,Năm 3,Thương mại điện tử,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,4,3,4,4,4,3,2,3,4
+CTM60509,Nam,Nghệ An,Năm 2,Quản trị dịch vụ du lịch và lữ hành,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,4,4,3,2,3,2,4,3
+CTM60557,Nam,Hồ Chí Minh,Năm 4,Ngân hàng,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,3,3,4,3,3,3,3,3
+CTM6062,Nữ,Hà Nội,Năm 4,Thương mại,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,5,5,4,3,4,3,4,4
+CTM60782,Nữ,Hồ Chí Minh,Năm 2,Quản trị khách sạn,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,3,3,3,3,2,4,4,3,5,4
+CTM60838,Nữ,Kon Tum,Năm 2,Quản trị chuỗi cung ứng,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",2,5,3,3,4,4,3,4,2,4
+CTM60873,Nữ,Quảng Trị,Năm 3,Truyền thông Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,4,4,3,4,4,4,3,4,5,5
+CTM60974,Nam,Đà Nẵng,Năm 2,Kiểm toán,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,5,4,4,4,4,4
+CTM6107,Nữ,Thừa Thiên Huế,Năm 4,Kế toán,Nông dân,Dưới 1.500.000,Trên 2 năm,"Học tập, Làm việc",2,2,2,3,3,2,3,4,3,3
+CTM61430,Nữ,Hà Nội,Năm 4,Quản trị khách sạn,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",2,5,4,5,4,3,4,4,5,3
+CTM61502,Nam,Gia Lai,Năm 4,Kế toán,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,4,4,5,5,4,3,5,5
+CTM61589,Nữ,Gia Lai,Năm 3,Thương mại điện tử,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,4,4,3,2,5,3,4,4
+CTM61637,Nam,Bình Định,Năm 4,Kế toán,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,3,3,3,3,3,3,3,3,3
+CTM61689,Nam,Hồ Chí Minh,Năm 3,Ngoại thương,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,3,3,3,4,5,5,3,4,4
+CTM61823,Nữ,Đà Nẵng,Năm 4,Quản trị kinh doanh,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,Chơi game,5,5,4,5,3,5,4,5,4,2
+CTM61943,Nữ,Hồ Chí Minh,Năm 2,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,4,4,4,5,2,4,3,4
+CTM61978,Nam,Hồ Chí Minh,Năm 2,Quản trị nguồn nhân lực,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,3,2,3,4,3,4,3,4,3,4
+CTM62148,Nam,Quảng Bình,Năm 4,Luật kinh tế,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,2,2,4,2,3,2,4,3
+CTM62244,Nữ,Gia Lai,Năm 1,Ngân hàng,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Học tập,5,5,4,3,5,2,2,1,3,5
+CTM62280,Nữ,Hà Nội,Năm 3,Thương mại,Nông dân,Dưới 1.500.000,Trên 2 năm,Học tập,3,2,3,3,4,3,2,3,4,4
+CTM62325,Nam,Đắk Lắk,Năm 3,Quản trị khách sạn,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,3,4,4,4,5,2,2,3,4
+CTM6271,Nam,Đà Nẵng,Năm 4,Toán kinh tế,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",3,4,5,5,5,3,3,4,5,5
+CTM62764,Nữ,Quảng Ngãi,Năm 4,Thương mại,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc",4,4,4,4,5,3,4,3,4,3
+CTM62778,Nữ,Hồ Chí Minh,Năm 3,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,4,4,4,3,3,4,4,4,2
+CTM62859,Nam,Hà Tĩnh,Năm 2,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,4,4,4,3,4,2,4,4
+CTM62870,Nam,Thanh Hóa,Năm 2,Ngân hàng,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,3,4,4,2,3,1,3,4
+CTM62896,Nữ,Nghệ An,Năm 4,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",3,2,2,3,4,4,2,2,4,4
+CTM62921,Nữ,Quảng Ngãi,Năm 2,Thương mại điện tử,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,3,4,4,2,4,2,3,3,2
+CTM62987,Nữ,Đắk Nông,Năm 4,Kế toán,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",2,2,3,4,4,2,3,2,3,4
+CTM63014,Nam,Đắk Nông,Năm 3,Kiểm toán,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc",3,3,3,4,4,5,4,4,4,3
+CTM6304,Nữ,Đắk Lắk,Năm 2,Truyền thông Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,4,4,5,5,5,4,4,5,5,5
+CTM63154,Nữ,Thanh Hóa,Năm 4,Thương mại điện tử,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,4,5,4,4,3,3
+CTM63216,Nam,Thừa Thiên Huế,Năm 1,Khoa học dữ liệu,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,4,2,5,2,3,4
+CTM63282,Nam,Quảng Trị,Năm 1,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game",2,2,4,4,5,3,2,3,4,5
+CTM63287,Nam,Đắk Nông,Năm 1,Ngoại thương,Công chức nhà nước,Trên 5.000.000,Từ 6 tháng - 1 năm,"Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,4,3,4,4,3,4,4,4
+CTM63304,Nam,Đắk Lắk,Năm 3,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,4,3,3,4,4,4
+CTM63410,Nam,Đà Nẵng,Năm 2,Thương mại,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game",4,3,4,4,3,3,4,3,3,2
+CTM63454,Nam,Hà Nội,Năm 1,Khoa học dữ liệu,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Chơi game",3,3,5,5,4,2,3,2,4,3
+CTM63634,Nam,Thừa Thiên Huế,Năm 3,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game",3,2,2,4,3,2,3,4,3,4
+CTM63734,Nữ,Quảng Bình,Năm 3,Quản trị nguồn nhân lực,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,3,4,5,3,3,4,4
+CTM63743,Nam,Quảng Trị,Năm 3,Quản trị Marketing,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc",5,4,5,5,4,3,3,3,4,3
+CTM63744,Nam,Quảng Trị,Năm 4,Thương mại,Công chức nhà nước,Trên 5.000.000,Từ 1 năm đến 2 năm,"Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,1,1,2,2,2,3,3,3
+CTM6394,Nam,Bình Định,Năm 1,Thương mại,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Học tập,3,4,5,5,3,4,5,5,5,5
+CTM64160,Nữ,Hà Nội,Năm 2,Thương mại,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web), Khác",3,3,4,4,3,2,3,3,3,2
+CTM64283,Nữ,Hà Nội,Năm 4,Kế toán,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",3,4,2,3,3,4,4,3,4,4
+CTM64421,Nam,Quảng Trị,Năm 2,Ngoại thương,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",3,5,4,4,4,2,3,2,4,4
+CTM64614,Nam,Đắk Lắk,Năm 4,Toán kinh tế,Nông dân,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,5,5,4,2,5,4,5,5
+CTM64845,Nữ,Hồ Chí Minh,Năm 3,Truyền thông Marketing,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,5,3,4,4,4,3,4,4,3
+CTM6492,Nữ,Đắk Lắk,Năm 1,Thương mại điện tử,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,3,4,4,3,3,2,2,3,3
+CTM64926,Nữ,Đà Nẵng,Năm 3,Thương mại,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,2,3,4,4,2,3,4,2,3
+CTM65003,Nữ,Hà Nội,Năm 4,Kế toán,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",3,4,2,3,4,2,3,2,3,4
+CTM65181,Nữ,Hà Nội,Năm 3,Ngoại thương,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,3,4,5,3,4,2,4,4
+CTM65188,Nam,Quảng Trị,Năm 3,Hệ thống thông tin quản lý,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Chơi game",4,3,5,5,4,2,4,3,5,4
+CTM652,Nam,Thanh Hóa,Năm 2,Quản trị Marketing,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc",5,4,5,5,5,4,5,5,5,5
+CTM65275,Nữ,Thanh Hóa,Năm 4,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,4,3,4,3,3,4
+CTM65354,Nam,Bình Định,Năm 2,Quản trị dịch vụ du lịch và lữ hành,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,4,4,1,2,1,3,2
+CTM65460,Nữ,Bình Định,Năm 4,Tài chính doanh nghiệp,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",2,4,4,5,5,5,4,4,4,4
+CTM65555,Nữ,Gia Lai,Năm 4,Luật kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,3,3,5,4,5,2,4,5
+CTM65618,Nam,Hà Nội,Năm 3,Hệ thống thông tin quản lý,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,3,5,5,5,2,3,2,5,5
+CTM65663,Nam,Quảng Trị,Năm 4,Ngoại thương,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,3,4,4,3,3,4,4,4,2
+CTM65862,Nữ,Thừa Thiên Huế,Năm 2,Quản trị chuỗi cung ứng,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,5,5,5,5,5,5
+CTM65863,Nữ,Nghệ An,Năm 1,Ngoại thương,Nông dân,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,Học tập,4,5,2,3,4,3,5,2,4,5
+CTM65869,Nữ,Bình Định,Năm 1,Luật,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,5,3,4,5,5,3
+CTM6596,Nam,Nghệ An,Năm 2,Luật,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,3,4,5,4,4,3,3,4
+CTM65988,Nam,Bình Định,Năm 1,Thương mại điện tử,Nông dân,Dưới 1.500.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,5,5,5,5,5,5,5,5,5
+CTM66015,Nữ,Hà Nội,Năm 2,Kế toán,Nông dân,Dưới 1.500.000,Từ 6 tháng - 1 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,2,3,5,3,4,3,5,5
+CTM66069,Nữ,Hồ Chí Minh,Năm 4,Quản trị kinh doanh,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",1,4,4,4,4,4,4,4,4,4
+CTM6612,Nam,Hồ Chí Minh,Năm 4,Hệ thống thông tin quản lý,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc",4,3,4,5,3,2,4,2,4,3
+CTM66180,Nữ,Quảng Bình,Năm 4,Thương mại,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,4,4,4,4,5,5
+CTM6636,Nữ,Quảng Trị,Năm 3,Quản trị dịch vụ du lịch và lữ hành,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,2,4,3,4,3,2,4,3
+CTM66393,Nữ,Hà Nội,Năm 4,Thương mại,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,3,4,4,4,4,3,3,3
+CTM66396,Nữ,Hồ Chí Minh,Năm 2,Thương mại,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",2,4,3,4,5,4,4,3,4,4
+CTM66425,Nữ,Thừa Thiên Huế,Năm 3,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Học tập,4,3,2,3,4,2,4,3,4,4
+CTM66453,Nam,Hồ Chí Minh,Năm 2,Hệ thống thông tin quản lý,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,5,5,4,2,5,2,4,3
+CTM66547,Nữ,Quảng Trị,Năm 4,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,3,4,4,4,4,4,4,4,4,4
+CTM66563,Nữ,Hồ Chí Minh,Năm 2,Quản trị Marketing,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,Học tập,4,4,3,3,3,5,5,4,3,3
+CTM66700,Nam,Quảng Bình,Năm 3,Kiểm toán,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,Học tập,4,4,2,3,3,2,4,3,4,3
+CTM66733,Nữ,Nghệ An,Năm 2,Quản trị chuỗi cung ứng,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,4,5,4,3,2,3,4
+CTM66791,Nữ,Hà Nội,Năm 1,Ngoại thương,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,4,4,4,3,4,4,4,4
+CTM66913,Nam,Bình Định,Năm 1,Khoa học dữ liệu,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game",4,4,5,5,4,2,2,2,4,3
+CTM67021,Nữ,Đắk Nông,Năm 3,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web), Khác",3,3,4,4,4,3,3,4,4,2
+CTM67023,Nữ,Hồ Chí Minh,Năm 2,Thương mại,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,3,4,3,4,4,3,4,2,4,3
+CTM67090,Nữ,Hồ Chí Minh,Năm 4,Thương mại,Nhân viên văn phòng,Trên 5.000.000,Trên 2 năm,"Học tập, Làm việc",2,2,3,4,3,2,5,5,4,3
+CTM67168,Nữ,Hồ Chí Minh,Năm 3,Quản trị Marketing,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,4,4,4,4,4,4,4,4,4
+CTM67264,Nữ,Hồ Chí Minh,Năm 2,Thương mại điện tử,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,2,2,3,4,4,4,3,3
+CTM67284,Nữ,Quảng Bình,Năm 3,Ngân hàng,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,2,3,4,4,4,2,3,4
+CTM6731,Nữ,Hà Tĩnh,Năm 2,Kinh tế,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,Học tập,3,4,2,2,4,2,3,2,5,4
+CTM67446,Nam,Quảng Trị,Năm 1,Luật kinh tế,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Dưới 6 tháng,"Học tập, Chơi game",5,3,3,3,3,3,3,3,3,3
+CTM67464,Nam,Phú Yên,Năm 4,Thương mại,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",5,5,5,5,4,1,3,1,3,4
+CTM67498,Nam,Hồ Chí Minh,Năm 2,Ngoại thương,Nhân viên văn phòng,Trên 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",4,5,3,4,4,5,5,5,3,3
+CTM67507,Nữ,Quảng Ngãi,Năm 4,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",5,3,3,3,4,3,5,3,5,5
+CTM67590,Nam,Hà Nội,Năm 4,Thương mại,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,4,4,5,3,5,4
+CTM67648,Nam,Bình Định,Năm 2,Luật,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,1,1,4,4,4,4,4,4
+CTM67736,Nữ,Hà Nội,Năm 2,Quản trị dịch vụ du lịch và lữ hành,Nông dân,Dưới 1.500.000,Dưới 6 tháng,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,5,4,5,5,4,4,5,3
+CTM67780,Nam,Hà Tĩnh,Năm 3,Luật,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,5,3,3,4,3,4,3,4,4
+CTM67873,Nữ,Quảng Ngãi,Năm 3,Quản trị tài chính,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",5,4,2,3,4,2,3,2,5,5
+CTM67928,Nữ,Hồ Chí Minh,Năm 2,Kiểm toán,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,3,4,4,4,3,4,4
+CTM67934,Nam,Thừa Thiên Huế,Năm 1,Thương mại điện tử,Nông dân,Dưới 1.500.000,Dưới 6 tháng,"Học tập, Chơi game",3,3,4,4,4,2,4,1,2,2
+CTM67995,Nữ,Hồ Chí Minh,Năm 3,Quản trị kinh doanh,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,2,2,3,4,4,4,3,4,4
+CTM68181,Nữ,Hồ Chí Minh,Năm 2,Truyền thông Marketing,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,3,4,5,4,4,5,3
+CTM68249,Nam,Nghệ An,Năm 3,Kiểm toán,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",3,3,3,3,5,2,3,3,4,5
+CTM68489,Nam,Quảng Trị,Năm 4,Hệ thống thông tin quản lý,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,5,5,4,3,4,4,5,3
+CTM6861,Nam,Hồ Chí Minh,Năm 3,Quan hệ công chúng,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game",4,5,4,4,4,5,5,4,3,3
+CTM6867,Nam,Quảng Trị,Năm 3,Toán kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,5,5,4,3,4,4,5,5
+CTM6867,Nữ,Gia Lai,Năm 3,Kế toán,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,4,4,4,4,4,4
+CTM68704,Nữ,Hồ Chí Minh,Năm 3,Luật kinh tế,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,4,3,3,3,3,3,3,3,3,3
+CTM68739,Nam,Đà Nẵng,Năm 4,Thương mại,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,5,5,4,3,3,1,4,3
+CTM69062,Nam,Bình Định,Năm 1,Quản trị kinh doanh,Kinh doanh tự do,Dưới 1.500.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,5,5,5,4,4,4,4,4
+CTM69132,Nam,Hồ Chí Minh,Năm 3,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,3,2,4,4,5,3,3,4,4
+CTM69156,Nữ,Hà Nội,Năm 1,Kinh tế,Nông dân,Dưới 1.500.000,Từ 6 tháng - 1 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,2,2,4,4,5,2,5,5
+CTM69224,Nữ,Đắk Lắk,Năm 2,Quản trị nguồn nhân lực,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",3,4,2,2,5,2,3,2,5,4
+CTM69273,Nữ,Quảng Ngãi,Năm 2,Thương mại điện tử,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,4,3,3,3,4,4
+CTM69274,Nữ,Thừa Thiên Huế,Năm 3,Ngoại thương,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,4,4,3,5,4,5,5
+CTM69373,Nữ,Quảng Trị,Năm 1,Hệ thống thông tin quản lý,Kinh doanh tự do,Trên 5.000.000,Trên 2 năm,Khác,5,4,4,4,4,4,4,4,4,4
+CTM69589,Nam,Gia Lai,Năm 4,Quản trị kinh doanh,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,5,2,3,4,5,3,4,2,2
+CTM69597,Nữ,Bình Định,Năm 1,Quản trị nguồn nhân lực,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,Học tập,3,3,3,3,3,3,3,3,3,3
+CTM69671,Nam,Hà Tĩnh,Năm 1,Khoa học dữ liệu,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,5,5,4,3,3,4,5,4
+CTM69678,Nữ,Đà Nẵng,Năm 1,Quản trị Marketing,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,Học tập,4,4,5,4,4,3,4,5,4,4
+CTM69714,Nam,Quảng Bình,Năm 3,Ngoại thương,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,5,4,4,4,5,5
+CTM69842,Nữ,Hồ Chí Minh,Năm 4,Tài chính doanh nghiệp,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,Học tập,5,4,3,3,3,4,4,3,3,3
+CTM69949,Nữ,Quảng Trị,Năm 2,Kiểm toán,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,Học tập,3,2,3,4,4,2,5,2,3,4
+CTM7000,Nữ,Đắk Nông,Năm 3,Quản trị dịch vụ du lịch và lữ hành,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web), Khác",4,4,4,4,5,5,4,4,5,5
+CTM70000,Nữ,Hà Tĩnh,Năm 4,Ngân hàng,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,4,4,4,4,4,4,4,4
+CTM70126,Nam,Hồ Chí Minh,Năm 4,Thương mại điện tử,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,5,5,4,4,4,5,4,4
+CTM70319,Nam,Hà Nội,Năm 4,Quản trị chuỗi cung ứng,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,4,4,4,4,3,5,3,3,4
+CTM70364,Nữ,Quảng Bình,Năm 3,Hệ thống thông tin quản lý,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",3,4,4,5,3,3,4,3,4,4
+CTM70391,Nữ,Quảng Trị,Năm 2,Quan hệ công chúng,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,4,3,4,4,5,4,3,4,5
+CTM70455,Nữ,Hà Tĩnh,Năm 2,Kinh tế đầu tư,Nông dân,Dưới 1.500.000,Từ 6 tháng - 1 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,3,3,5,3,4,2,5,5
+CTM70499,Nữ,Quảng Trị,Năm 4,Kế toán,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,3,2,2,3,4,2,3,4,3,3
+CTM70546,Nữ,Bình Định,Năm 4,Quản trị kinh doanh,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,3,4,3,3,4,3,2,4
+CTM70557,Nam,Quảng Trị,Năm 3,Quản trị chuỗi cung ứng,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,3,4,5,4,2,5,4
+CTM70657,Nữ,Hồ Chí Minh,Năm 2,Quản trị Marketing,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,4,3,3,4,5,3,4,5,5
+CTM70755,Nữ,Hà Nội,Năm 3,Quan hệ công chúng,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,2,3,3,5,4,4,4,5
+CTM70782,Nam,Đắk Lắk,Năm 4,Quản trị tài chính,Nông dân,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,4,4,4,4,4,3,4,4
+CTM71095,Nam,Quảng Trị,Năm 2,Luật kinh tế,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Dưới 6 tháng,Làm việc,4,4,3,3,4,4,4,3,2,5
+CTM71278,Nam,Hồ Chí Minh,Năm 3,Quản trị kinh doanh,Kinh doanh tự do,Trên 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,3,5,3,4,3,3
+CTM71283,Nữ,Hà Nội,Năm 2,Quản trị khách sạn,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",2,4,1,1,1,2,4,3,5,4
+CTM71402,Nam,Bình Định,Năm 1,Quan hệ công chúng,Kinh doanh tự do,Trên 5.000.000,Dưới 6 tháng,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,5,5,3,5,5,5,3,3
+CTM71565,Nam,Thừa Thiên Huế,Năm 2,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",3,3,4,4,3,3,3,4,4,2
+CTM71691,Nam,Đà Nẵng,Năm 3,Hệ thống thông tin quản lý,Kinh doanh tự do,Trên 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,2,3,4,2,1,1,3,4
+CTM71794,Nữ,Đắk Lắk,Năm 1,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,3,3,5,3,3,3,5,5
+CTM71924,Nam,Hà Tĩnh,Năm 4,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Chơi game",3,4,2,3,4,4,3,2,4,4
+CTM7200,Nam,Bình Định,Năm 2,Kinh tế đầu tư,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,3,3,3,3,3,3,3,3
+CTM72100,Nam,Đà Nẵng,Năm 1,Hệ thống thông tin quản lý,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Dưới 6 tháng,"Học tập, Chơi game",4,3,5,5,4,3,5,3,4,5
+CTM72352,Nữ,Đắk Lắk,Năm 2,Thương mại,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web), Khác",2,4,2,2,4,2,4,2,5,4
+CTM72438,Nữ,Quảng Trị,Năm 1,Tài chính doanh nghiệp,Nông dân,Dưới 1.500.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,3,4,4,3,4,3,4,4
+CTM72587,Nam,Bình Định,Năm 3,Hệ thống thông tin quản lý,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,4,4,2,2,3,2,4,2
+CTM72713,Nữ,Quảng Trị,Năm 3,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",3,4,3,4,4,2,2,1,2,5
+CTM72735,Nữ,Hồ Chí Minh,Năm 2,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,Học tập,4,4,3,3,3,4,4,4,4,3
+CTM72888,Nam,Đà Nẵng,Năm 1,Luật kinh tế,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,5,4,4,4,5,2,1,2,3
+CTM73018,Nữ,Kon Tum,Năm 4,Quản trị khách sạn,Nông dân,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",2,4,3,3,5,2,4,2,4,3
+CTM73184,Nam,Hồ Chí Minh,Năm 4,Ngân hàng,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Dưới 6 tháng,"Học tập, Làm việc, Chơi game",4,5,3,4,3,4,5,1,4,4
+CTM7320,Nữ,Gia Lai,Năm 4,Quản trị kinh doanh,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,4,4,5,3,5,3,5,4
+CTM73218,Nữ,Kon Tum,Năm 3,Luật,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",4,3,4,4,4,3,4,3,3,2
+CTM73464,Nữ,Gia Lai,Năm 4,Luật,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,5,5,3,4,3,5,5,5
+CTM73494,Nam,Hà Nội,Năm 3,Hệ thống thông tin quản lý,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game",3,4,4,5,3,2,4,3,4,3
+CTM73621,Nam,Đắk Nông,Năm 3,Luật kinh tế,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,3,4,4,2,2,2,3,4
+CTM73688,Nữ,Đắk Nông,Năm 2,Kiểm toán,Nông dân,Dưới 1.500.000,Dưới 6 tháng,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,2,3,4,4,4,2,4,3
+CTM73855,Nữ,Đắk Lắk,Năm 2,Quản trị nguồn nhân lực,Nông dân,Dưới 1.500.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,3,4,4,3,2,4,4
+CTM73920,Nam,Hà Nội,Năm 2,Kiểm toán,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,3,3,3,4,3,4,2,3,4
+CTM74077,Nam,Hà Nội,Năm 3,Quản trị dịch vụ du lịch và lữ hành,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",2,2,4,5,4,1,3,1,3,5
+CTM7413,Nữ,Thanh Hóa,Năm 3,Quản trị Marketing,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,5,2,3,4,5,4,2,4,5
+CTM7425,Nam,Hà Nội,Năm 2,Hệ thống thông tin quản lý,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,3,3,3,3,4,4,4,4,4
+CTM74311,Nữ,Quảng Trị,Năm 4,Quản lý nhà nước,Nông dân,Dưới 1.500.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,3,3,4,2,4,3,4,4
+CTM74360,Nữ,Gia Lai,Năm 3,Luật,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,5,5,3,3,4,4,4,4
+CTM74394,Nữ,Bình Định,Năm 4,Ngoại thương,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,3,4,4,4,4,3,4,2,4,4
+CTM74616,Nữ,Hồ Chí Minh,Năm 2,Ngoại thương,Công chức nhà nước,Trên 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Chơi game",5,5,3,4,3,2,5,4,5,3
+CTM74725,Nữ,Hà Nội,Năm 3,Luật,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",2,4,2,2,5,3,3,2,4,4
+CTM74956,Nữ,Đắk Lắk,Năm 4,Quản trị chuỗi cung ứng,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",2,4,2,3,4,4,3,3,5,4
+CTM75146,Nữ,Kon Tum,Năm 3,Ngân hàng,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,2,2,4,3,4,2,4,5
+CTM75342,Nam,Quảng Bình,Năm 1,Kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,3,2,2,3,3,4,3,2,3,4
+CTM75363,Nữ,Hà Nội,Năm 1,Toán kinh tế,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",2,2,5,5,5,1,2,2,5,5
+CTM75594,Nữ,Đắk Lắk,Năm 1,Quản trị nguồn nhân lực,Nông dân,Dưới 1.500.000,Từ 6 tháng - 1 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,2,2,4,4,3,2,4,4
+CTM75745,Nữ,Bình Định,Năm 3,Thương mại điện tử,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Dưới 6 tháng,"Học tập, Làm việc",4,3,3,3,3,3,3,3,3,3
+CTM75782,Nữ,Quảng Bình,Năm 4,Quản trị khách sạn,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,2,4,3,4,4,2,5,5
+CTM75837,Nam,Đắk Nông,Năm 3,Luật kinh tế,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,4,5,4,5,5,5
+CTM75944,Nữ,Quảng Ngãi,Năm 4,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",5,3,3,3,5,3,5,2,4,5
+CTM75962,Nữ,Quảng Ngãi,Năm 2,Thương mại điện tử,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,Học tập,5,4,2,3,4,3,4,2,4,4
+CTM76155,Nữ,Gia Lai,Năm 2,Luật,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,5,4,4,5,4,3,2,5,5
+CTM76185,Nữ,Hồ Chí Minh,Năm 3,Truyền thông Marketing,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,4,4,2,3,4,5,4,3,3,4
+CTM76186,Nữ,Hà Nội,Năm 2,Tài chính doanh nghiệp,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,2,2,4,2,2,1,4,5
+CTM76385,Nữ,Hà Nội,Năm 3,Quản trị khách sạn,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,5,5,5,5,5,5,5,5
+CTM76437,Nam,Đắk Lắk,Năm 2,Kế toán,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc",5,5,5,5,5,5,5,5,5,5
+CTM76457,Nữ,Hà Nội,Năm 3,Quản trị kinh doanh,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,5,3,3,3,4,3,3,4,5
+CTM76541,Nữ,Quảng Trị,Năm 3,Kinh tế,Nông dân,Dưới 1.500.000,Trên 2 năm,"Học tập, Làm việc",2,4,2,2,5,3,4,3,5,5
+CTM76552,Nữ,Đắk Lắk,Năm 3,Thương mại điện tử,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,3,4,4,3,4,3,4,5
+CTM76581,Nữ,Nghệ An,Năm 3,Thương mại,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,4,3,3,4,4,3,3,4,4
+CTM7666,Nữ,Hà Tĩnh,Năm 3,Quan hệ công chúng,Nông dân,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,Làm việc,4,5,3,4,5,5,5,3,4,4
+CTM76685,Nam,Hồ Chí Minh,Năm 2,Ngoại thương,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,2,3,3,4,3,4,4,3
+CTM76692,Nữ,Hà Tĩnh,Năm 2,Quản trị tài chính,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",2,4,3,4,5,5,3,3,5,5
+CTM76769,Nữ,Phú Yên,Năm 2,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,5,3,3,4,4,2,2,4,4
+CTM76817,Nam,Quảng Ngãi,Năm 3,Thương mại điện tử,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,4,3,4,4,3,4,3,5,4
+CTM76987,Nữ,Đắk Lắk,Năm 4,Truyền thông Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,4,4,4,5,4,5,5,5
+CTM7705,Nữ,Quảng Ngãi,Năm 1,Quản trị kinh doanh,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,3,3,1,3,3,3
+CTM77058,Nam,Đà Nẵng,Năm 1,Khoa học dữ liệu,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Dưới 6 tháng,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,5,5,3,5,5,4,3,3
+CTM77116,Nam,Thanh Hóa,Năm 2,Hệ thống thông tin quản lý,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Chơi game",4,2,5,5,4,3,5,2,5,3
+CTM77187,Nam,Gia Lai,Năm 2,Kiểm toán,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,4,4,4,2,2,1,5,5
+CTM77193,Nữ,Thừa Thiên Huế,Năm 4,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,4,4,3,4,2,3,4
+CTM77252,Nam,Đà Nẵng,Năm 4,Ngoại thương,Kinh doanh tự do,Trên 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc",4,5,2,4,3,5,5,4,2,3
+CTM77278,Nữ,Quảng Trị,Năm 3,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",3,4,2,3,4,2,3,4,3,3
+CTM77352,Nữ,Hồ Chí Minh,Năm 3,Tài chính doanh nghiệp,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,5,2,3,4,5,4,3,3,4
+CTM77366,Nữ,Gia Lai,Năm 1,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,3,3,4,2,2,3,4,5
+CTM77394,Nữ,Đà Nẵng,Năm 1,Luật kinh tế,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Chơi game,5,4,3,4,3,4,4,4,4,4
+CTM77610,Nữ,Hồ Chí Minh,Năm 2,Ngoại thương,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,2,2,4,5,5,4,4,4
+CTM77639,Nữ,Thừa Thiên Huế,Năm 4,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,3,4,5,3,5,3,4,5
+CTM77684,Nam,Hồ Chí Minh,Năm 3,Hệ thống thông tin quản lý,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc",5,5,5,5,4,5,4,3,5,4
+CTM77787,Nam,Hà Nội,Năm 4,Kinh tế đầu tư,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",3,2,3,3,5,2,4,2,4,5
+CTM7792,Nữ,Hà Tĩnh,Năm 2,Kinh tế đầu tư,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",4,4,4,5,5,4,4,4,4,4
+CTM77993,Nam,Hồ Chí Minh,Năm 2,Quản trị Marketing,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,4,3,3,4,2,5,3,5,5
+CTM78044,Nữ,Đà Nẵng,Năm 4,Thương mại,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,4,4,5,3,4,3,4,5
+CTM78120,Nữ,Bình Định,Năm 3,Quan hệ công chúng,Kinh doanh tự do,Trên 5.000.000,Dưới 6 tháng,"Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,3,3,3,3,3,3,3,3,3
+CTM78123,Nam,Hồ Chí Minh,Năm 4,Quan hệ công chúng,Công chức nhà nước,Trên 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,4,4,3,5,3,2,4,3
+CTM78157,Nam,Thừa Thiên Huế,Năm 2,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,3,4,3,3,4,2,2,2,3,4
+CTM78341,Nam,Quảng Bình,Năm 2,Quản trị chuỗi cung ứng,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,3,3,4,2,5,2,3,4
+CTM78356,Nữ,Gia Lai,Năm 4,Thương mại,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,3,3,5,4,5,3,5,4
+CTM78509,Nam,Đà Nẵng,Năm 3,Hệ thống thông tin quản lý,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Chơi game",4,4,5,5,4,3,5,2,4,3
+CTM7862,Nữ,Hồ Chí Minh,Năm 1,Ngoại thương,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,5,5,5,5,5,5,5,4
+CTM78667,Nam,Hà Nội,Năm 4,Toán kinh tế,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,4,4,3,3,3,3
+CTM78762,Nữ,Bình Định,Năm 1,Quản trị khách sạn,Nông dân,Dưới 1.500.000,Từ 6 tháng - 1 năm,Làm việc,4,4,4,4,4,4,4,4,4,4
+CTM78895,Nữ,Hồ Chí Minh,Năm 4,Thương mại,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,3,3,4,4,5,2,4,5
+CTM78920,Nữ,Gia Lai,Năm 3,Thương mại,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Học tập,5,4,2,3,3,4,5,2,4,4
+CTM78960,Nữ,Nghệ An,Năm 3,Quản trị tài chính,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",5,4,2,3,4,4,5,2,4,5
+CTM79016,Nữ,Hà Nội,Năm 3,Ngoại thương,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,2,3,4,4,3,4,3,4
+CTM79017,Nam,Nghệ An,Năm 2,Quản trị tài chính,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,4,4,3,3,4,2,4,4
+CTM79056,Nữ,Quảng Ngãi,Năm 3,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,4,3,4,4,3,5,4,3,4
+CTM79129,Nữ,Hồ Chí Minh,Năm 2,Quản trị chuỗi cung ứng,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,3,3,4,4,4,3,3,4
+CTM79180,Nam,Quảng Trị,Năm 2,Quản trị kinh doanh,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,4,4,3,3,2,2,3,1
+CTM79223,Nam,Thanh Hóa,Năm 3,Toán kinh tế,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",5,2,4,5,4,3,4,2,3,4
+CTM79224,Nam,Bình Định,Năm 2,Truyền thông Marketing,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",4,4,4,4,3,3,4,3,4,2
+CTM79231,Nam,Hà Nội,Năm 1,Khoa học dữ liệu,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game",4,2,5,5,4,2,4,2,4,5
+CTM79387,Nam,Nghệ An,Năm 3,Kiểm toán,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,2,4,2,3,3,4,3,4
+CTM79451,Nữ,Gia Lai,Năm 4,Hệ thống thông tin quản lý,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Làm việc,4,2,5,5,4,2,4,3,5,4
+CTM79465,Nam,Hồ Chí Minh,Năm 2,Kiểm toán,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game",4,2,3,4,3,2,4,3,4,3
+CTM79523,Nam,Bình Định,Năm 4,Quản trị Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,3,4,4,4,3,1,3,4
+CTM79874,Nam,Đắk Lắk,Năm 2,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,4,5,2,2,2,4,5
+CTM79956,Nữ,Hà Nội,Năm 1,Thương mại,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,5,5,5,5,5,5,5,5
+CTM800,Nam,Hồ Chí Minh,Năm 4,Ngoại thương,Nhân viên văn phòng,Trên 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,3,3,4,5,2,2,3,4
+CTM80011,Nam,Quảng Bình,Năm 2,Hệ thống thông tin quản lý,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,4,5,4,2,2,2,5,4
+CTM80045,Nam,Quảng Trị,Năm 3,Quản trị khách sạn,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,2,2,3,4,3,3,2,3,4
+CTM80056,Nữ,Quảng Trị,Năm 4,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",3,4,3,3,4,3,4,2,3,3
+CTM80210,Nữ,Bình Định,Năm 3,Quản trị Marketing,Nông dân,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,3,3,4,5,3,2
+CTM80325,Nữ,Hồ Chí Minh,Năm 2,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,5,3,3,4,5,4,4,4,4
+CTM80337,Nam,Thanh Hóa,Năm 2,Truyền thông Marketing,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc",3,3,4,4,4,4,3,2,5,4
+CTM80412,Nữ,Hồ Chí Minh,Năm 2,Quản trị Marketing,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,5,5,5,5,4,4,4,5,4
+CTM80540,Nữ,Quảng Trị,Năm 2,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,4,3,4,4,4,3,2,4,4
+CTM80660,Nữ,Nghệ An,Năm 4,Kế toán,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,4,2,3,4,4,3,2,3,4
+CTM80710,Nam,Hồ Chí Minh,Năm 2,Ngoại thương,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web), Khác",3,3,2,2,3,4,4,4,4,3
+CTM81227,Nam,Phú Yên,Năm 2,Quản trị dịch vụ du lịch và lữ hành,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,2,4,4,1,3,3,3,2,2
+CTM81259,Nữ,Đắk Nông,Năm 3,Truyền thông Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,4,4,5,3,3,2,5,5
+CTM81357,Nữ,Bình Định,Năm 4,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,4,4,4,3,4,4,4,3
+CTM81477,Nam,Hồ Chí Minh,Năm 2,Quản trị tài chính,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,2,3,3,2,3,2,2,3,2
+CTM8154,Nữ,Quảng Bình,Năm 1,Quản trị dịch vụ du lịch và lữ hành,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,3,3,2,2,3,3,4,4,4
+CTM81540,Nữ,Hồ Chí Minh,Năm 3,Thương mại,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,2,3,3,4,5,4,4,4,4
+CTM81567,Nữ,Đắk Lắk,Năm 2,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,2,3,3,3,4,3,5,5
+CTM81638,Nam,Hà Nội,Năm 4,Thương mại điện tử,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,4,4,4,2,2,3,3,3,2
+CTM81643,Nữ,Hồ Chí Minh,Năm 4,Quan hệ công chúng,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,5,5,3,5,5,4,4,3
+CTM81720,Nữ,Thừa Thiên Huế,Năm 2,Kế toán,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,3,4,3,4,2,5,5
+CTM8176,Nữ,Kon Tum,Năm 3,Quản lý nhà nước,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,3,2,2,3,4,4,3,2,3,4
+CTM81885,Nam,Hà Nội,Năm 4,Thương mại điện tử,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,5,4,3,3,3,3,4,3
+CTM81917,Nữ,Bình Định,Năm 3,Quản trị kinh doanh,Nông dân,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,4,5,5,1,5,3
+CTM8193,Nữ,Bình Định,Năm 4,Ngân hàng,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,4,4,4,4,4,4,4,4
+CTM81940,Nữ,Quảng Ngãi,Năm 4,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,4,4,5,3,4,4,5,4
+CTM82054,Nữ,Kon Tum,Năm 1,Tài chính doanh nghiệp,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,3,3,4,2,2,4,5,4
+CTM82100,Nam,Gia Lai,Năm 4,Luật,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,Học tập,4,3,3,4,2,2,2,2,2,2
+CTM82173,Nam,Đắk Nông,Năm 2,Luật,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,3,3,3,3,3,3,3,3
+CTM82200,Nữ,Hà Nội,Năm 2,Toán kinh tế,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,5,5,5,4,5,2,4,5
+CTM82229,Nữ,Hà Tĩnh,Năm 3,Thương mại,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,2,2,3,4,4,3,2,4,4
+CTM82286,Nam,Kon Tum,Năm 3,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",3,4,4,4,4,2,2,3,4,5
+CTM82552,Nam,Hồ Chí Minh,Năm 4,Quan hệ công chúng,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,4,4,5,5,5,5,4,4
+CTM82780,Nữ,Hà Nội,Năm 4,Thương mại,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,5,4,4,5,4,5,3,4,3
+CTM82899,Nữ,Bình Định,Năm 2,Quản trị kinh doanh,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,3,4,4,4,4,3
+CTM82917,Nữ,Quảng Bình,Năm 2,Quản trị dịch vụ du lịch và lữ hành,Nông dân,Dưới 1.500.000,Dưới 6 tháng,Học tập,4,4,2,2,4,4,3,3,3,4
+CTM82992,Nam,Hà Nội,Năm 3,Quan hệ công chúng,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game",3,4,3,4,4,2,3,2,5,5
+CTM83000,Nữ,Nghệ An,Năm 2,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,5,5,3,3,4,5,5,3
+CTM8302,Nam,Thừa Thiên Huế,Năm 4,Kiểm toán,Nông dân,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",3,3,4,4,5,1,3,1,2,4
+CTM83049,Nam,Hà Nội,Năm 3,Thương mại điện tử,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,4,2,3,4,2,3,4,2,3,4
+CTM83076,Nam,Bình Định,Năm 1,Ngân hàng,Nông dân,Dưới 1.500.000,Dưới 6 tháng,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,4,4,5,3,2,2,4,4
+CTM83104,Nữ,Quảng Ngãi,Năm 4,Kế toán,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",3,2,3,3,3,4,2,3,4,4
+CTM83207,Nữ,Hồ Chí Minh,Năm 2,Ngoại thương,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,3,4,5,5,4,4,4
+CTM8324,Nữ,Quảng Trị,Năm 1,Ngoại thương,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,4,5,5,4,5,5,4,5
+CTM83286,Nữ,Hà Nội,Năm 2,Toán kinh tế,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Học tập,5,2,5,5,4,2,4,2,5,4
+CTM83333,Nữ,Đà Nẵng,Năm 1,Kế toán,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,4,4,5,4,4,4,4,4
+CTM83416,Nam,Hà Nội,Năm 3,Hệ thống thông tin quản lý,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,5,5,4,3,5,4,5,3
+CTM8353,Nữ,Hồ Chí Minh,Năm 4,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,4,3,4,4,4,4,4,4,4,4
+CTM83544,Nam,Hồ Chí Minh,Năm 4,Quan hệ công chúng,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,5,3,2,4,4,2,3,4,4
+CTM83631,Nữ,Thừa Thiên Huế,Năm 3,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,4,4,3,3,4,2,4,2,4,5
+CTM83662,Nam,Hà Nội,Năm 2,Kiểm toán,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,Học tập,3,2,3,4,3,2,4,3,4,4
+CTM83772,Nam,Hồ Chí Minh,Năm 4,Toán kinh tế,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,3,4,5,5,2,4,3,5
+CTM83797,Nam,Hồ Chí Minh,Năm 1,Khoa học dữ liệu,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,5,5,3,3,5,3,5,3
+CTM83809,Nữ,Đắk Lắk,Năm 4,Thương mại,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,5,3,5,2,5,4
+CTM83815,Nữ,Hà Nội,Năm 3,Ngân hàng,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,5,4,4,5,5,4
+CTM83857,Nam,Hà Nội,Năm 2,Toán kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,5,2,3,4,5,5
+CTM84024,Nam,Bình Định,Năm 3,Toán kinh tế,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,5,5,4,1,2,4,3,4
+CTM84162,Nữ,Thừa Thiên Huế,Năm 2,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",2,3,2,3,4,3,2,2,4,3
+CTM84225,Nữ,Bình Định,Năm 1,Quản trị khách sạn,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Chơi game,3,4,4,4,4,4,4,4,4,4
+CTM84428,Nam,Đà Nẵng,Năm 3,Ngân hàng,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game",4,2,3,4,3,2,4,3,4,3
+CTM84500,Nam,Đắk Nông,Năm 3,Kiểm toán,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,4,3,2,3,2,3,4
+CTM84504,Nữ,Quảng Bình,Năm 3,Thương mại,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",5,2,3,4,3,3,2,3,4,5
+CTM84682,Nữ,Hồ Chí Minh,Năm 4,Quản trị dịch vụ du lịch và lữ hành,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,4,4,4,4,4,4
+CTM84712,Nữ,Hồ Chí Minh,Năm 2,Ngân hàng,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Học tập,5,2,4,4,4,4,3,2,3,3
+CTM84729,Nữ,Hồ Chí Minh,Năm 4,Quản trị Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,3,3,5,3,3,3,5,5
+CTM84730,Nữ,Quảng Bình,Năm 2,Quản trị nguồn nhân lực,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,2,3,4,4,5,2,4,3
+CTM84777,Nữ,Hà Tĩnh,Năm 4,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,3,2,3,3,4,2,3,2,3,4
+CTM848,Nữ,Thừa Thiên Huế,Năm 1,Quản trị Marketing,Nông dân,Dưới 1.500.000,Dưới 6 tháng,Học tập,1,4,4,4,5,5,4,2,2,4
+CTM84891,Nữ,Bình Định,Năm 4,Quản trị Nguồn nhân lực,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Làm việc",2,4,3,3,4,3,4,4,3,3
+CTM84975,Nữ,Hà Nội,Năm 3,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,3,2,3,4,5,5,2,4,4
+CTM85083,Nam,Thanh Hóa,Năm 4,Quản trị tài chính,Nông dân,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",3,4,3,3,4,2,4,1,3,3
+CTM85104,Nữ,Quảng Trị,Năm 3,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,3,2,3,4,4,3,2,4,4
+CTM85137,Nữ,Hồ Chí Minh,Năm 3,Thương mại,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,3,3,3,5,4,4,5,5
+CTM85138,Nữ,Hà Nội,Năm 4,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,5,4,5,2,4,4
+CTM85161,Nam,Bình Định,Năm 3,Quản trị Marketing,Công chức nhà nước,Trên 5.000.000,Trên 2 năm,Chơi game,5,5,5,5,5,5,5,5,5,5
+CTM85207,Nữ,Hà Nội,Năm 3,Quản trị dịch vụ du lịch và lữ hành,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,3,3,3,2,4,4,4,3
+CTM8522,Nam,Đắk Lắk,Năm 3,Ngoại thương,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,5,5,4,4,5,5,5,5
+CTM85671,Nữ,Thừa Thiên Huế,Năm 1,Ngân hàng,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,3,3,3,4,5,5
+CTM85773,Nữ,Hồ Chí Minh,Năm 3,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,3,3,2,2,3,3
+CTM85811,Nữ,Đà Nẵng,Năm 3,Tài chính doanh nghiệp,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,5,5,5,5,5,5,5,5
+CTM8595,Nam,Quảng Bình,Năm 2,Luật,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,5,3,4,4,2,5,4,5,5
+CTM8603,Nữ,Thừa Thiên Huế,Năm 2,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,2,3,4,4,4,1,4,5
+CTM86133,Nữ,Gia Lai,Năm 4,Kế toán,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",3,2,2,3,4,3,4,3,2,3
+CTM86135,Nữ,Thanh Hóa,Năm 3,Thương mại,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,Học tập,5,3,4,5,4,4,5,5,5,3
+CTM86223,Nam,Hồ Chí Minh,Năm 4,Thương mại,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,5,4,5,3,4,2,5,4
+CTM86332,Nam,Hà Nội,Năm 3,Hệ thống thông tin quản lý,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,3,3,5,5,4,2,4,2,5,5
+CTM86514,Nam,Quảng Trị,Năm 2,Kiểm toán,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,4,3,3,3,4,4,3,4,4
+CTM8663,Nam,Quảng Ngãi,Năm 3,Thương mại điện tử,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,4,2,3,4,3,4,4
+CTM86754,Nữ,Nghệ An,Năm 2,Quản trị dịch vụ du lịch và lữ hành,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,Học tập,2,2,3,4,4,4,4,4,4,4
+CTM86944,Nam,Quảng Ngãi,Năm 3,Luật kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,4,4,4,3,4,4,5,5
+CTM87103,Nữ,Kon Tum,Năm 4,Luật,Nông dân,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,4,4,4,3,3,5,5,5
+CTM87232,Nữ,Nghệ An,Năm 3,Quan hệ công chúng,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,3,4,4,3,4,2
+CTM87381,Nữ,Kon Tum,Năm 4,Ngoại thương,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,5,5,4,4,3,5,5,5
+CTM87386,Nữ,Hà Tĩnh,Năm 3,Truyền thông Marketing,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Học tập,5,5,3,3,4,5,2,2,4,4
+CTM87494,Nam,Kon Tum,Năm 4,Quản trị dịch vụ du lịch và lữ hành,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,3,3,4,5,4,2,3,4
+CTM87829,Nữ,Đắk Nông,Năm 1,Truyền thông Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,Học tập,4,3,5,5,4,3,4,3,4,3
+CTM87883,Nữ,Thừa Thiên Huế,Năm 1,Quản trị khách sạn,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",5,3,3,3,4,4,5,2,4,5
+CTM87979,Nữ,Gia Lai,Năm 2,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,3,4,3,2,3,4,4,5
+CTM88191,Nữ,Bình Định,Năm 1,Quản trị khách sạn,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Chơi game,3,4,4,4,4,4,4,4,4,4
+CTM88214,Nữ,Gia Lai,Năm 3,Quản trị dịch vụ du lịch và lữ hành,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,4,4,4,4,4,4,4,4
+CTM88236,Nữ,Hà Nội,Năm 2,Thương mại điện tử,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,Học tập,4,4,3,4,3,2,3,2,3,4
+CTM8834,Nam,Quảng Bình,Năm 3,Luật kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,2,2,4,4,4,2,4,4
+CTM88476,Nữ,Quảng Trị,Năm 4,Quan hệ công chúng,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,5,5,4,4,5,5
+CTM88580,Nữ,Bình Định,Năm 1,Quản trị khách sạn,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Chơi game,2,4,4,4,4,4,4,4,4,4
+CTM88595,Nữ,Thừa Thiên Huế,Năm 4,Thương mại điện tử,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web), Khác",3,4,4,5,3,4,3,3,4,3
+CTM88643,Nữ,Bình Định,Năm 2,Quản trị Marketing,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Học tập,4,4,4,4,4,4,4,4,4,4
+CTM8865,Nam,Bình Định,Năm 1,Khoa học dữ liệu,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,3,4,3,4,3,3,4,4
+CTM88913,Nam,Đắk Nông,Năm 2,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,4,3,2,4,3,4,3,2
+CTM89377,Nữ,Hà Nội,Năm 2,Ngân hàng,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,3,2,3,3,5,1,3,1,4,5
+CTM89440,Nữ,Bình Định,Năm 4,Ngoại thương,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,Học tập,5,4,4,3,4,4,4,4,4,4
+CTM89458,Nữ,Nghệ An,Năm 2,Quan hệ công chúng,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,5,5,2,3,4,5,4,2,4,5
+CTM89648,Nam,Thừa Thiên Huế,Năm 2,Ngoại thương,Kinh doanh tự do,Trên 5.000.000,Từ 1 năm đến 2 năm,Học tập,4,4,3,4,3,5,4,5,4,3
+CTM89655,Nữ,Hồ Chí Minh,Năm 2,Ngoại thương,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc",3,3,2,3,3,5,4,3,3,4
+CTM89821,Nữ,Hồ Chí Minh,Năm 3,Thương mại,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",2,3,2,3,4,5,4,2,2,2
+CTM89824,Nữ,Quảng Ngãi,Năm 2,Thương mại điện tử,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,5,2,3,4,4,2,3,3,4,4
+CTM89943,Nam,Thừa Thiên Huế,Năm 1,Thương mại điện tử,Nông dân,Dưới 1.500.000,Dưới 6 tháng,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,5,5,5,2,5,5,5,5
+CTM89949,Nữ,Đắk Lắk,Năm 2,Tài chính doanh nghiệp,Nông dân,Dưới 1.500.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,5,5,5,5,5,5,5,5,5
+CTM89980,Nữ,Đắk Lắk,Năm 3,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,3,4,3,2,4,2,4,5
+CTM89990,Nữ,Hà Nội,Năm 1,Thương mại,Nông dân,Dưới 1.500.000,Dưới 6 tháng,Học tập,4,2,3,3,4,3,5,3,5,4
+CTM90048,Nữ,Quảng Bình,Năm 4,Kế toán,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,2,3,4,5,3,2,4,4
+CTM90255,Nữ,Hồ Chí Minh,Năm 4,Ngoại thương,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Học tập,4,4,4,4,4,4,4,4,4,3
+CTM9050,Nam,Thanh Hóa,Năm 1,Kiểm toán,Nông dân,Dưới 1.500.000,Dưới 6 tháng,Học tập,4,4,2,3,4,4,4,2,3,4
+CTM90500,Nữ,Đắk Nông,Năm 2,Tài chính doanh nghiệp,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,3,3,5,2,3,1,4,5
+CTM90606,Nữ,Quảng Bình,Năm 4,Quản lý nhà nước,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,4,2,3,5,2,2,2,4,4
+CTM90613,Nam,Đắk Lắk,Năm 4,Quản trị Marketing,Kinh doanh tự do,Trên 5.000.000,Dưới 6 tháng,Học tập,5,2,1,3,2,3,2,2,1,2
+CTM90615,Nữ,Hà Tĩnh,Năm 3,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",5,4,4,5,3,3,5,5,5,3
+CTM90687,Nam,Gia Lai,Năm 4,Luật,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,4,4,3,4,4,4
+CTM90686,Nam,Quảng Bình,Năm 3,Hệ thống thông tin quản lý,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Làm việc, Chơi game",4,3,5,5,4,3,4,3,4,4
+CTM90688,Nam,Thừa Thiên Huế,Năm 4,Thương mại,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",2,2,4,4,2,3,2,4,4,5
+CTM90696,Nữ,Quảng Bình,Năm 3,Luật kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",2,5,3,3,4,2,2,2,3,4
+CTM90745,Nữ,Hồ Chí Minh,Năm 3,Quản trị kinh doanh,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,3,5,5,3,4,4,3,5,3
+CTM90793,Nữ,Quảng Trị,Năm 4,Kế toán,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",2,4,2,2,4,3,4,2,4,3
+CTM90834,Nam,Thừa Thiên Huế,Năm 1,Quản trị Marketing,Kinh doanh tự do,Trên 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,5,5,4,5,5,5,5,4
+CTM90845,Nam,Hà Nội,Năm 2,Luật kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,4,4,5,3,4,2,5,5
+CTM90934,Nam,Bình Định,Năm 4,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,4,4,3,4,4,2,3,4
+CTM90936,Nam,Quảng Bình,Năm 1,Quản trị nguồn nhân lực,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Làm việc, Chơi game",3,3,4,4,4,2,4,2,5,4
+CTM90963,Nữ,Bình Định,Năm 3,Quản trị Marketing,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,3,3,3,3,3,3,3,3
+CTM9098,Nữ,Hồ Chí Minh,Năm 4,Quan hệ công chúng,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,Học tập,4,3,4,4,4,3,3,4,4,4
+CTM90994,Nữ,Thừa Thiên Huế,Năm 4,Ngoại thương,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,4,5,4,4,4,3,4,4
+CTM91097,Nữ,Đắk Nông,Năm 3,Kế toán,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,3,2,2,3,4,4,4,2,3,4
+CTM91147,Nam,Quảng Trị,Năm 3,Quản trị chuỗi cung ứng,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,3,4,2,2,1,5,4
+CTM91190,Nữ,Hồ Chí Minh,Năm 3,Thương mại,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",4,4,5,5,4,3,4,3,4,5
+CTM91293,Nữ,Đắk Nông,Năm 4,Luật kinh tế,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",4,3,3,3,3,3,3,3,4,4
+CTM91342,Nữ,Hồ Chí Minh,Năm 4,Thương mại,Kinh doanh tự do,Trên 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,5,5,3,4,5,4,5,3
+CTM91349,Nữ,Quảng Bình,Năm 2,Thương mại,Nông dân,Dưới 1.500.000,Từ 6 tháng - 1 năm,Học tập,3,4,2,3,5,2,4,2,5,5
+CTM91480,Nữ,Hà Nội,Năm 3,Quản trị Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",3,4,2,3,4,2,3,2,3,3
+CTM91493,Nữ,Quảng Bình,Năm 4,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,4,3,4,2,4,1,4,4
+CTM91882,Nam,Quảng Bình,Năm 3,Quản trị chuỗi cung ứng,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,3,4,2,3,4,5,5
+CTM91903,Nam,Hà Nội,Năm 3,Tài chính doanh nghiệp,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game",3,2,3,4,4,3,4,4,4,3
+CTM91911,Nữ,Thừa Thiên Huế,Năm 3,Thương mại điện tử,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,Học tập,4,4,3,4,4,2,2,3,4,5
+CTM91988,Nữ,Bình Định,Năm 3,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,3,3,5,2,3,2,4,5
+CTM9199,Nữ,Hà Nội,Năm 2,Thương mại,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,4,3,4,4,3,4,2,5,4
+CTM92024,Nữ,Thanh Hóa,Năm 3,Quản trị Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,5,4,2,3,4,5,2,3,4,5
+CTM92051,Nữ,Bình Định,Năm 3,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Làm việc,5,4,4,4,4,4,4,4,4,4
+CTM92234,Nam,Thừa Thiên Huế,Năm 2,Luật kinh tế,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web), Khác",3,3,3,3,4,3,4,3,4,3
+CTM92235,Nữ,Hà Tĩnh,Năm 2,Thương mại điện tử,Nông dân,Dưới 1.500.000,Dưới 6 tháng,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",4,3,3,4,3,3,3,2,3,3
+CTM92258,Nam,Hồ Chí Minh,Năm 1,Hệ thống thông tin quản lý,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Dưới 6 tháng,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,5,5,3,5,5,5,5,3
+CTM92430,Nam,Quảng Ngãi,Năm 4,Ngân hàng,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,4,5,5,4,4,5,4,4
+CTM92455,Nam,Thừa Thiên Huế,Năm 2,Toán kinh tế,Nông dân,Dưới 1.500.000,Trên 2 năm,"Học tập, Chơi game",3,3,5,5,4,4,5,4,4,4
+CTM92538,Nam,Nghệ An,Năm 3,Kinh tế phát triển,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",3,3,3,3,4,4,4,2,3,4
+CTM92585,Nữ,Quảng Bình,Năm 4,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,5,5,5,5,5,5,5,5
+CTM92604,Nữ,Đắk Lắk,Năm 3,Kế toán,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",3,4,2,3,4,4,3,2,3,5
+CTM92722,Nam,Thừa Thiên Huế,Năm 4,Quan hệ công chúng,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,3,3,3,3,3,3,3,3,3
+CTM92807,Nữ,Đắk Lắk,Năm 3,Thương mại điện tử,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,4,4,4,3,3,4,2,3,2
+CTM9291,Nữ,Hà Nội,Năm 3,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,4,4,4,4,4,4,4,4
+CTM92923,Nữ,Hà Tĩnh,Năm 4,Kiểm toán,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Chơi game",4,5,3,3,4,5,2,2,4,4
+CTM92971,Nam,Quảng Bình,Năm 1,Thương mại điện tử,Kinh doanh tự do,Trên 5.000.000,Dưới 6 tháng,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,1,1,4,4,4,1,1,1
+CTM92984,Nữ,Quảng Trị,Năm 3,Quản trị Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,4,2,3,5,5,3,2,4,5
+CTM93057,Nữ,Thanh Hóa,Năm 3,Ngoại thương,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc",3,3,3,4,3,3,3,4,4,3
+CTM93131,Nam,Hồ Chí Minh,Năm 3,Kiểm toán,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",4,2,3,4,3,4,5,3,4,3
+CTM93145,Nữ,Hà Nội,Năm 3,Kiểm toán,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game",3,4,3,4,3,4,5,3,4,4
+CTM933,Nam,Nghệ An,Năm 3,Luật kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,2,2,4,2,3,3,4,4
+CTM93569,Nam,Hà Nội,Năm 2,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,3,4,5,2,2,3,4,5
+CTM93591,Nam,Thừa Thiên Huế,Năm 3,Quản trị Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,2,4,2,3,4,2,4,5
+CTM93659,Nữ,Bình Định,Năm 1,Quản trị khách sạn,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Chơi game,4,4,4,4,4,4,4,4,4,4
+CTM93680,Nam,Gia Lai,Năm 4,Thương mại,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",3,4,3,4,3,2,3,2,4,4
+CTM93687,Nữ,Phú Yên,Năm 2,Ngân hàng,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,3,3,5,2,4,2,5,5
+CTM93768,Nam,Quảng Bình,Năm 3,Toán kinh tế,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Chơi game",5,4,5,5,3,3,4,3,5,4
+CTM93954,Nữ,Hà Tĩnh,Năm 3,Quản trị nguồn nhân lực,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",4,4,5,5,5,4,3,3,4,4
+CTM93978,Nam,Hà Tĩnh,Năm 3,Ngân hàng,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,2,2,4,4,3,3,4,3
+CTM94012,Nam,Hà Nội,Năm 2,Quản trị dịch vụ du lịch và lữ hành,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Chơi game",3,4,3,4,3,4,2,2,4,4
+CTM94017,Nữ,Thừa Thiên Huế,Năm 3,Luật,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,4,2,3,4,3,4,2,4,5
+CTM94152,Nữ,Quảng Trị,Năm 2,Quản trị dịch vụ du lịch và lữ hành,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,3,3,4,4,3,2,5,5
+CTM94220,Nữ,Phú Yên,Năm 4,Thương mại điện tử,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,4,4,4,3,2,2,4,3
+CTM94300,Nam,Hà Tĩnh,Năm 4,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",3,2,3,4,4,3,4,2,3,4
+CTM94404,Nam,Hồ Chí Minh,Năm 3,Toán kinh tế,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,3,5,5,4,2,3,1,3,4
+CTM94415,Nam,Gia Lai,Năm 1,Quản lý nhà nước,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,4,4,4,4,4,4
+CTM94424,Nữ,Gia Lai,Năm 3,Quản trị chuỗi cung ứng,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,2,4,4,4,2,2,1,4,3
+CTM94434,Nữ,Thừa Thiên Huế,Năm 4,Kế toán,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,4,4,4,4,4,3,4,4
+CTM94514,Nữ,Hồ Chí Minh,Năm 3,Thương mại,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web), Khác",4,2,2,2,4,5,4,3,4,4
+CTM94631,Nữ,Quảng Trị,Năm 2,Quản trị dịch vụ du lịch và lữ hành,Nông dân,Dưới 1.500.000,Từ 6 tháng - 1 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",2,4,5,5,4,4,5,4,5,3
+CTM94834,Nam,Nghệ An,Năm 1,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Chơi game",2,3,3,4,3,2,4,2,4,3
+CTM94894,Nữ,Bình Định,Năm 3,Kế toán,Nông dân,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,4,4,4,4,4,4
+CTM95060,Nam,Gia Lai,Năm 4,Luật kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,2,3,3,4,2,3,2,4,4
+CTM95135,Nam,Thừa Thiên Huế,Năm 2,Kiểm toán,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Chơi game",4,2,3,4,3,4,3,2,3,3
+CTM95148,Nữ,Bình Định,Năm 4,Quản trị kinh doanh,Kinh doanh tự do,Trên 5.000.000,Trên 2 năm,"Học tập, Làm việc",4,3,4,4,3,3,3,3,3,3
+CTM95230,Nữ,Nghệ An,Năm 3,Kế toán,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,3,3,3,3,3,3,3,3
+CTM9525,Nam,Hồ Chí Minh,Năm 3,Thương mại điện tử,Công chức nhà nước,Trên 5.000.000,Dưới 6 tháng,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,3,4,4,2,2,3,3,3,1
+CTM95281,Nam,Hà Nội,Năm 4,Hệ thống thông tin quản lý,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,4,5,3,2,4,3,4,3
+CTM95327,Nữ,Hồ Chí Minh,Năm 4,Truyền thông Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Làm việc,4,5,5,5,5,3,5,4,5,3
+CTM95335,Nữ,Hà Nội,Năm 3,Kế toán,Nông dân,Dưới 1.500.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",3,4,2,3,4,2,4,3,4,4
+CTM95346,Nam,Hà Tĩnh,Năm 3,Luật,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",2,4,3,4,3,2,3,2,3,4
+CTM95588,Nam,Đắk Lắk,Năm 2,Truyền thông Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Học tập,4,4,3,3,4,4,3,4,5,4
+CTM95605,Nam,Đắk Nông,Năm 4,Luật,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",5,4,4,4,4,4,4,4,4,4
+CTM95647,Nữ,Hồ Chí Minh,Năm 3,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,5,4,4,5,4,4
+CTM95841,Nam,Hà Tĩnh,Năm 3,Quản trị kinh doanh,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,5,3,3,4,5,2,4,5,5
+CTM95843,Nam,Quảng Bình,Năm 3,Truyền thông Marketing,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,5,2,3,4,5,5,3,4,5
+CTM95918,Nữ,Đắk Lắk,Năm 3,Thương mại điện tử,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,Học tập,4,4,3,4,4,5,5,2,4,4
+CTM96042,Nữ,Hồ Chí Minh,Năm 3,Quản trị kinh doanh,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,3,3,4,4,5,2,4,4
+CTM96103,Nữ,Quảng Ngãi,Năm 3,Ngoại thương,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,5,3,5,3,4,4
+CTM96127,Nữ,Hồ Chí Minh,Năm 4,Kế toán,Nông dân,Dưới 1.500.000,Trên 2 năm,"Học tập, Làm việc",3,4,3,3,4,3,2,3,4,4
+CTM96157,Nam,Bình Định,Năm 2,Luật,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,4,4,4,4,4,3,2
+CTM96337,Nam,Hồ Chí Minh,Năm 3,Quản trị Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",2,3,3,3,4,4,4,3,4,3
+CTM9637,Nữ,Bình Định,Năm 4,Quản trị nguồn nhân lực,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,5,5,3,4,4,4,5,5
+CTM96407,Nữ,Quảng Bình,Năm 3,Hệ thống thông tin quản lý,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,2,5,5,4,2,3,2,4,4
+CTM96507,Nữ,Bình Định,Năm 4,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,4,4,4,4,4,4,4,4
+CTM96522,Nữ,Bình Định,Năm 2,Ngoại thương,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,3,4,2,3,4,3,3,2,3,4
+CTM9659,Nam,Quảng Ngãi,Năm 2,Thương mại điện tử,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",5,3,4,4,4,2,4,2,4,5
+CTM96612,Nam,Thanh Hóa,Năm 4,Truyền thông Marketing,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",3,4,2,3,4,4,3,2,4,3
+CTM96655,Nam,Hồ Chí Minh,Năm 4,Thương mại điện tử,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,5,5,4,4,4,4,4,4
+CTM96715,Nam,Gia Lai,Năm 4,Thương mại,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,Học tập,4,3,3,3,3,3,3,3,3,3
+CTM96785,Nam,Hồ Chí Minh,Năm 2,Ngoại thương,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,2,3,4,2,3,4,2,4
+CTM9689,Nữ,Nghệ An,Năm 3,Ngoại thương,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,Học tập,4,3,2,3,2,4,3,2,4,3
+CTM96959,Nam,Đắk Lắk,Năm 2,Luật,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game",2,3,4,4,3,2,2,3,4,4
+CTM97062,Nam,Thừa Thiên Huế,Năm 2,Ngoại thương,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,Học tập,3,2,3,4,3,2,4,4,3,4
+CTM97067,Nữ,Quảng Trị,Năm 2,Luật kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Học tập,3,3,3,3,3,4,3,3,5,4
+CTM9716,Nữ,Hồ Chí Minh,Năm 3,Kiểm toán,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",3,4,2,3,4,3,3,2,3,4
+CTM97401,Nam,Hồ Chí Minh,Năm 4,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,4,4,3,4,3,4,3,3
+CTM97413,Nam,Hồ Chí Minh,Năm 3,Quản trị Marketing,Nhân viên văn phòng,Từ 3.000.000 đến 5.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,5,5,4,4,4,5
+CTM9743,Nữ,Hồ Chí Minh,Năm 3,Ngoại thương,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,3,4,3,4,3,3,4,5
+CTM97508,Nữ,Đắk Lắk,Năm 2,Quản trị kinh doanh,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc",3,4,2,3,4,5,4,2,5,5
+CTM97553,Nữ,Hà Nội,Năm 4,Quản trị kinh doanh,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,2,2,4,3,2,3,4,4
+CTM97578,Nữ,Hà Tĩnh,Năm 1,Quản trị Marketing,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,Học tập,4,5,2,3,4,5,4,2,4,4
+CTM97690,Nữ,Quảng Bình,Năm 2,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,3,3,4,4,2,3,3,5
+CTM97740,Nữ,Quảng Trị,Năm 2,Kế toán,Nông dân,Trên 5.000.000,Trên 2 năm,Học tập,4,4,4,4,3,4,4,4,4,2
+CTM97861,Nữ,Bình Định,Năm 2,Truyền thông Marketing,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,5,5,5,5,5,4,4,5
+CTM97877,Nữ,Hà Tĩnh,Năm 4,Kế toán,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",4,4,2,3,4,2,3,2,3,4
+CTM97895,Nam,Bình Định,Năm 2,Truyền thông Marketing,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",5,3,3,3,3,3,3,3,3,3
+CTM98018,Nữ,Thừa Thiên Huế,Năm 1,Luật kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",3,4,5,5,5,5,4,5,5,5
+CTM98046,Nam,Hồ Chí Minh,Năm 4,Luật kinh tế,Công chức nhà nước,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,2,2,3,4,5,5,3,4,3
+CTM9809,Nữ,Đắk Lắk,Năm 4,Kế toán,Nông dân,Dưới 1.500.000,Trên 2 năm,"Học tập, Làm việc",4,4,2,2,4,4,4,2,4,4
+CTM98114,Nữ,Bình Định,Năm 1,Quản trị khách sạn,Kinh doanh tự do,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,Học tập,3,4,4,4,4,4,4,4,4,4
+CTM98262,Nam,Đắk Nông,Năm 1,Quan hệ công chúng,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,3,3,3,3,3,3,3,3,3
+CTM98302,Nữ,Bình Định,Năm 1,Thương mại,Kinh doanh tự do,Trên 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,1,3,1,4,4,1
+CTM98400,Nam,Nghệ An,Năm 3,Kiểm toán,Công chức nhà nước,Từ 1.500.000 đến 3.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,4,3,4,3,2,3,4,3,4
+CTM98507,Nữ,Nghệ An,Năm 4,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",3,3,3,4,5,2,4,2,4,5
+CTM98747,Nam,Thừa Thiên Huế,Năm 2,Thương mại,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc",3,4,3,3,4,2,2,2,4,5
+CTM98786,Nữ,Lâm Đồng,Năm 3,Quản trị khách sạn,Nhân viên văn phòng,Trên 5.000.000,Từ 1 năm đến 2 năm,"Học tập, Làm việc",4,5,5,5,3,4,4,4,4,2
+CTM98808,Nam,Hồ Chí Minh,Năm 4,Toán kinh tế,Nông dân,Từ 1.500.000 đến 3.000.000,Trên 2 năm,"Học tập, Làm việc, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web), Khác",4,3,4,4,3,2,3,2,3,2
+CTM98999,Nam,Kon Tum,Năm 4,Thương mại điện tử,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,2,4,3,3,2,2
+CTM99142,Nữ,Hồ Chí Minh,Năm 2,Truyền thông Marketing,Kinh doanh tự do,Từ 3.000.000 đến 5.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,5,3,3,4,5,5,3,4,3
+CTM99519,Nữ,Nghệ An,Năm 1,Kế toán,Công chức nhà nước,Trên 5.000.000,Trên 2 năm,"Giải trí (xem phim, nghe nhạc, lướt web)",4,5,5,5,1,4,4,4,4,2
+CTM99547,Nam,Quảng Trị,Năm 1,Hệ thống thông tin quản lý,Nông dân,Từ 1.500.000 đến 3.000.000,Dưới 6 tháng,"Học tập, Chơi game, Giải trí (xem phim, nghe nhạc, lướt web)",4,2,5,5,4,2,2,1,3,4
+CTM9971,Nữ,Hồ Chí Minh,Năm 3,Kế toán,Nông dân,Dưới 1.500.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",4,3,5,5,4,4,5,3,4,4
+CTM99751,Nữ,Bình Định,Năm 1,Quản trị khách sạn,Nhân viên văn phòng,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Giải trí (xem phim, nghe nhạc, lướt web)",4,4,4,4,4,4,4,4,4,4
+CTM99852,Nữ,Bình Định,Năm 4,Quản trị kinh doanh,Nông dân,Trên 5.000.000,Trên 2 năm,"Học tập, Làm việc",4,3,4,4,3,3,3,3,3,3
+CTM99985,Nữ,Thừa Thiên Huế,Năm 1,Quản trị dịch vụ du lịch và lữ hành,Nông dân,Từ 1.500.000 đến 3.000.000,Từ 6 tháng - 1 năm,"Học tập, Làm việc, Giải trí (xem phim, nghe nhạc, lướt web)",5,4,4,4,4,3,4,4,4,3
